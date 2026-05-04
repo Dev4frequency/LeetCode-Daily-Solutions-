@@ -5,6 +5,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0396-rotate-function/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -58,6 +59,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0788-rotated-digits/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -83,6 +85,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0048-rotate-image/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
