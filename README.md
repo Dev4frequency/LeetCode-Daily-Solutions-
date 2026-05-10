@@ -16,6 +16,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2615-sum-of-distances](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2615-sum-of-distances/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -105,6 +106,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0788-rotated-digits/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3660-jump-game-ix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
