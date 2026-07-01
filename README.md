@@ -39,6 +39,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -85,6 +86,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +170,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3161-block-placement-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -198,6 +201,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1345-jump-game-iv](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -208,6 +212,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1861-rotating-the-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Dynamic Programming
@@ -299,6 +304,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
