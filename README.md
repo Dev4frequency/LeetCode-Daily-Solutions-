@@ -169,6 +169,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
