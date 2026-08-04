@@ -14,6 +14,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0628-maximum-product-of-three-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0877-stone-game/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [1250-check-if-it-is-a-good-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1260-shift-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -216,6 +217,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0877-stone-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0877-stone-game/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1201-ugly-number-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1201-ugly-number-iii/) | Medium |
+| [1250-check-if-it-is-a-good-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1406-stone-game-iii/) | Hard |
 | [1447-simplified-fractions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1447-simplified-fractions/) | Medium |
@@ -373,6 +375,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0866-prime-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0866-prime-palindrome/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1201-ugly-number-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1201-ugly-number-iii/) | Medium |
+| [1250-check-if-it-is-a-good-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1447-simplified-fractions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1447-simplified-fractions/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
@@ -515,9 +518,19 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1447-simplified-fractions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1447-simplified-fractions/) | Medium |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1447-simplified-fractions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1447-simplified-fractions/) | Medium |
+## Bézout's Lemma
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+## Extended Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 <!---LeetCode Topics End-->
