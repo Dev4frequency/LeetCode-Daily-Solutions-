@@ -33,6 +33,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1819-number-of-different-subsequences-gcds](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -202,6 +203,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1819-number-of-different-subsequences-gcds](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -228,6 +230,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1447-simplified-fractions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1447-simplified-fractions/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
+| [1819-number-of-different-subsequences-gcds](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1840-maximum-building-height](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -387,6 +390,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1447-simplified-fractions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1447-simplified-fractions/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
+| [1819-number-of-different-subsequences-gcds](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -531,12 +535,14 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1447-simplified-fractions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1447-simplified-fractions/) | Medium |
+| [1819-number-of-different-subsequences-gcds](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1447-simplified-fractions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1447-simplified-fractions/) | Medium |
+| [1819-number-of-different-subsequences-gcds](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 ## Bézout's Lemma
 | Problem Name | Difficulty |
 | ------- | ------- |
