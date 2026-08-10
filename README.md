@@ -260,6 +260,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2117-abbreviating-the-product-of-a-range/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+| [2427-number-of-common-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2427-number-of-common-factors/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -432,6 +433,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2117-abbreviating-the-product-of-a-range/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+| [2427-number-of-common-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2427-number-of-common-factors/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -481,6 +483,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1291-sequential-digits/) | Medium |
 | [1952-three-divisors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1952-three-divisors/) | Easy |
+| [2427-number-of-common-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2427-number-of-common-factors/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -586,6 +589,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1819-number-of-different-subsequences-gcds](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+| [2427-number-of-common-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2427-number-of-common-factors/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -595,6 +599,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1819-number-of-different-subsequences-gcds](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+| [2427-number-of-common-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2427-number-of-common-factors/) | Easy |
 ## Bézout's Lemma
 | Problem Name | Difficulty |
 | ------- | ------- |
