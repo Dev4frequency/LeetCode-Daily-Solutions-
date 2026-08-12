@@ -56,6 +56,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -187,6 +188,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -270,6 +272,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2413-smallest-even-multiple](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2427-number-of-common-factors/) | Easy |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2543-check-if-point-is-reachable](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -450,6 +453,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2413-smallest-even-multiple](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2427-number-of-common-factors/) | Easy |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2543-check-if-point-is-reachable](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -594,6 +598,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [1952-three-divisors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1952-three-divisors/) | Easy |
 | [1998-gcd-sort-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Fermat's Little Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -608,6 +613,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1998-gcd-sort-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2427-number-of-common-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2427-number-of-common-factors/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2543-check-if-point-is-reachable](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2543-check-if-point-is-reachable/) | Hard |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
@@ -619,6 +625,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1998-gcd-sort-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2427-number-of-common-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2427-number-of-common-factors/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2543-check-if-point-is-reachable](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2543-check-if-point-is-reachable/) | Hard |
 ## Bézout's Lemma
 | Problem Name | Difficulty |
@@ -632,6 +639,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1952-three-divisors/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -659,4 +667,12 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1510-stone-game-iv/) | Hard |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 <!---LeetCode Topics End-->
