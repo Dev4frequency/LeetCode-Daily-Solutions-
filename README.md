@@ -62,6 +62,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2615-sum-of-distances](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
@@ -284,6 +285,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2513-minimize-the-maximum-of-two-arrays/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2543-check-if-point-is-reachable](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2543-check-if-point-is-reachable/) | Hard |
+| [2614-prime-in-diagonal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2709-greatest-common-divisor-traversal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -383,6 +385,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1861-rotating-the-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -470,6 +473,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2513-minimize-the-maximum-of-two-arrays/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2543-check-if-point-is-reachable](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2543-check-if-point-is-reachable/) | Hard |
+| [2614-prime-in-diagonal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2709-greatest-common-divisor-traversal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
