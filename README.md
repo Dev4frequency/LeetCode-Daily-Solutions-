@@ -78,6 +78,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3115-maximum-prime-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3161-block-placement-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3161-block-placement-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -301,6 +302,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2614-prime-in-diagonal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2709-greatest-common-divisor-traversal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3115-maximum-prime-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -493,6 +495,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2607-make-k-subarray-sums-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2709-greatest-common-divisor-traversal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
+| [3115-maximum-prime-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -726,6 +729,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3115-maximum-prime-difference/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
