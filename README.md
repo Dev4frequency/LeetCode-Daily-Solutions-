@@ -193,6 +193,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -346,6 +347,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -553,6 +555,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -683,6 +686,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
