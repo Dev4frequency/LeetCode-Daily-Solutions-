@@ -365,6 +365,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3556-sum-of-largest-prime-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
