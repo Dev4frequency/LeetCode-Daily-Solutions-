@@ -105,6 +105,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
 | [3574-maximize-subarray-gcd-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3574-maximize-subarray-gcd-score/) | Hard |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -256,6 +257,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
+| [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3731-find-missing-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3731-find-missing-elements/) | Easy |
@@ -373,6 +375,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3556-sum-of-largest-prime-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
 | [3574-maximize-subarray-gcd-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3574-maximize-subarray-gcd-score/) | Hard |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -587,6 +590,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3444-minimum-increments-for-target-multiples-in-an-array/) | Hard |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
+| [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
 | [3574-maximize-subarray-gcd-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3574-maximize-subarray-gcd-score/) | Hard |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -643,6 +647,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3161-block-placement-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
 | [3605-minimum-stability-factor-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3605-minimum-stability-factor-of-array/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -867,6 +872,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
