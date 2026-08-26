@@ -132,6 +132,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3838-weighted-word-mapping](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3850-count-sequences-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3850-count-sequences-to-k/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,6 +416,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3850-count-sequences-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3850-count-sequences-to-k/) | Hard |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3855-sum-of-k-digit-numbers-in-a-range/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -436,6 +438,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3620-network-recovery-pathways](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -472,6 +475,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -562,6 +566,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -635,6 +640,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3850-count-sequences-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3850-count-sequences-to-k/) | Hard |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3855-sum-of-k-digit-numbers-in-a-range/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
