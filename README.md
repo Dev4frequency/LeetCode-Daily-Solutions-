@@ -134,6 +134,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3901-good-subsequence-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3901-good-subsequence-queries/) | Hard |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +161,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +280,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3731-find-missing-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,6 +423,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3901-good-subsequence-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3901-good-subsequence-queries/) | Hard |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -646,6 +650,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3901-good-subsequence-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3901-good-subsequence-queries/) | Hard |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
