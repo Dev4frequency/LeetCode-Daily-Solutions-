@@ -419,6 +419,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3901-good-subsequence-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3901-good-subsequence-queries/) | Hard |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -644,6 +645,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3901-good-subsequence-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3901-good-subsequence-queries/) | Hard |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
