@@ -83,6 +83,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2784-check-if-array-is-good](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2862-maximum-element-sum-of-a-complete-subset-of-indices/) | Hard |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -198,6 +199,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2685-count-the-number-of-complete-components](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## String
@@ -497,6 +499,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2607-make-k-subarray-sums-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
