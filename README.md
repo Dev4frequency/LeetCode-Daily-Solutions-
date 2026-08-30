@@ -346,6 +346,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0396-rotate-function](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0788-rotated-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0788-rotated-digits/) | Medium |
 | [0858-mirror-reflection](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0858-mirror-reflection/) | Medium |
 | [0866-prime-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0866-prime-palindrome/) | Medium |
@@ -457,6 +458,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0475-heaters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0475-heaters/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1201-ugly-number-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1201-ugly-number-iii/) | Medium |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2513-minimize-the-maximum-of-two-arrays/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
@@ -602,6 +604,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0481-magical-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0481-magical-string/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1861-rotating-the-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
