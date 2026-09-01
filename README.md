@@ -112,6 +112,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
 | [3574-maximize-subarray-gcd-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3574-maximize-subarray-gcd-score/) | Hard |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
@@ -299,6 +300,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -537,6 +539,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -553,6 +556,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3725-count-ways-to-choose-coprime-integers-from-rows/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Dynamic Programming
@@ -739,6 +743,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
