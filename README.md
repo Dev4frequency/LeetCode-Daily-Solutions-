@@ -147,6 +147,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3850-count-sequences-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3850-count-sequences-to-k/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3901-good-subsequence-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3901-good-subsequence-queries/) | Hard |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
@@ -471,6 +472,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3855-sum-of-k-digit-numbers-in-a-range/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3901-good-subsequence-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3901-good-subsequence-queries/) | Hard |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
