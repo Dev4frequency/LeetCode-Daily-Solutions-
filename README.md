@@ -76,6 +76,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2465-number-of-distinct-averages](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
@@ -300,6 +301,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2465-number-of-distinct-averages](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2584-split-the-array-to-make-coprime-products/) | Hard |
@@ -541,6 +543,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2126-destroying-asteroids](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+| [2465-number-of-distinct-averages](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2607-make-k-subarray-sums-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -678,6 +681,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2465-number-of-distinct-averages](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
