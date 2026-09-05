@@ -158,6 +158,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3901-good-subsequence-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3901-good-subsequence-queries/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
@@ -363,6 +364,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
