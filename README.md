@@ -101,6 +101,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2862-maximum-element-sum-of-a-complete-subset-of-indices/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -515,6 +516,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2513-minimize-the-maximum-of-two-arrays/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3161-block-placement-queries/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -705,6 +707,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -862,6 +865,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2427-number-of-common-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2427-number-of-common-factors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
