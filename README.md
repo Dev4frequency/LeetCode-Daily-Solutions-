@@ -236,6 +236,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0466-count-the-repetitions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0466-count-the-repetitions/) | Hard |
 | [0481-magical-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0481-magical-string/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
@@ -620,6 +621,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0396-rotate-function](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0396-rotate-function/) | Medium |
 | [0466-count-the-repetitions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0466-count-the-repetitions/) | Hard |
 | [0486-predict-the-winner](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0486-predict-the-winner/) | Medium |
