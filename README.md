@@ -290,6 +290,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3614-process-string-with-special-operations-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
@@ -494,6 +495,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3725-count-ways-to-choose-coprime-integers-from-rows/) | Hard |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -729,6 +731,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -850,6 +853,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
