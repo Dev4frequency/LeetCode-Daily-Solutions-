@@ -460,6 +460,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2117-abbreviating-the-product-of-a-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2117-abbreviating-the-product-of-a-range/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2427-number-of-common-factors/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
@@ -763,6 +764,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
@@ -1203,4 +1205,8 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
