@@ -175,6 +175,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -232,6 +233,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3689-maximum-total-subarray-value-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -547,6 +549,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3725-count-ways-to-choose-coprime-integers-from-rows/) | Hard |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -659,6 +662,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3649-number-of-perfect-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3649-number-of-perfect-pairs/) | Medium |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3685-subsequence-sum-after-capping-elements/) | Medium |
 | [3731-find-missing-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3731-find-missing-elements/) | Easy |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
@@ -843,6 +847,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
