@@ -342,6 +342,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -866,6 +867,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3814-maximum-capacity-within-budget](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
@@ -977,6 +979,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
