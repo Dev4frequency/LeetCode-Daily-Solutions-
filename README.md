@@ -193,6 +193,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 | [3984-divisible-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3984-divisible-game/) | Medium |
+| [4001-aggregate-two-time-series](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4001-aggregate-two-time-series/) | Medium |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Greedy
@@ -864,6 +865,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
+| [4001-aggregate-two-time-series](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4001-aggregate-two-time-series/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4026-maximum-gap-between-stations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Number Theory
