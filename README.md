@@ -142,6 +142,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3444-minimum-increments-for-target-multiples-in-an-array/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -390,6 +391,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3316-find-maximum-removals-from-source-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
@@ -1016,6 +1018,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3503-longest-palindrome-after-substring-concatenation-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -1118,6 +1121,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0486-predict-the-winner/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
