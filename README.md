@@ -54,6 +54,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
 | [1766-tree-of-coprimes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1766-tree-of-coprimes/) | Hard |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
@@ -656,6 +657,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1840-maximum-building-height/) | Hard |
@@ -753,6 +755,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1510-stone-game-iv](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1563-stone-game-v/) | Hard |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
+| [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1872-stone-game-viii/) | Hard |
@@ -839,6 +842,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1754-largest-merge-of-two-strings/) | Medium |
+| [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
@@ -1008,6 +1012,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0832-flipping-an-image/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -1248,6 +1253,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3444-minimum-increments-for-target-multiples-in-an-array/) | Hard |
@@ -1354,4 +1360,8 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
+## Meet in the Middle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 <!---LeetCode Topics End-->
