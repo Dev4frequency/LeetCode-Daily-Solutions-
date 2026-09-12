@@ -81,6 +81,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -219,6 +220,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2607-make-k-subarray-sums-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
@@ -428,6 +430,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1872-stone-game-viii/) | Hard |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2615-sum-of-distances/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2947-count-beautiful-substrings-i/) | Medium |
@@ -597,6 +600,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2513-minimize-the-maximum-of-two-arrays/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
@@ -653,6 +657,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -835,6 +840,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2105-watering-plants-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2105-watering-plants-ii/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -1038,6 +1044,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0845-longest-mountain-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1291-sequential-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1291-sequential-digits/) | Medium |
 | [1952-three-divisors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1952-three-divisors/) | Easy |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2427-number-of-common-factors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
