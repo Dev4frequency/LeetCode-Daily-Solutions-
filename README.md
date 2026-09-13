@@ -373,6 +373,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3983-subsequence-after-one-replacement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3983-subsequence-after-one-replacement/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3998-transform-binary-string-using-subsequence-sort/) | Medium |
+| [3999-minimum-number-of-string-groups-through-transformations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3999-minimum-number-of-string-groups-through-transformations/) | Hard |
 | [4026-maximum-gap-between-stations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -443,6 +444,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
+| [3999-minimum-number-of-string-groups-through-transformations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3999-minimum-number-of-string-groups-through-transformations/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -947,6 +949,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3983-subsequence-after-one-replacement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3983-subsequence-after-one-replacement/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3998-transform-binary-string-using-subsequence-sort/) | Medium |
+| [3999-minimum-number-of-string-groups-through-transformations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3999-minimum-number-of-string-groups-through-transformations/) | Hard |
 | [4001-aggregate-two-time-series](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4001-aggregate-two-time-series/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4026-maximum-gap-between-stations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4026-maximum-gap-between-stations/) | Medium |
