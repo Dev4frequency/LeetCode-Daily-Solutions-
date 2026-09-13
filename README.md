@@ -337,6 +337,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2947-count-beautiful-substrings-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [2949-count-beautiful-substrings-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2949-count-beautiful-substrings-ii/) | Hard |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -634,6 +635,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2972-count-the-number-of-incremovable-subarrays-ii/) | Hard |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3161-block-placement-queries/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -815,6 +817,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1023-camelcase-matching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1023-camelcase-matching/) | Medium |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -903,6 +906,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2972-count-the-number-of-incremovable-subarrays-ii/) | Hard |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
@@ -1379,6 +1383,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1388,19 +1393,23 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1960-maximum-product-of-the-length-of-two-palindromic-substrings/) | Hard |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1960-maximum-product-of-the-length-of-two-palindromic-substrings/) | Hard |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 ## Meet in the Middle
 | Problem Name | Difficulty |
 | ------- | ------- |
