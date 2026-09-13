@@ -328,6 +328,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2565-subsequence-with-the-minimum-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2565-subsequence-with-the-minimum-score/) | Hard |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -623,6 +624,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2513-minimize-the-maximum-of-two-arrays/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
+| [2565-subsequence-with-the-minimum-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2565-subsequence-with-the-minimum-score/) | Hard |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -885,6 +887,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2465-number-of-distinct-averages](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2565-subsequence-with-the-minimum-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2565-subsequence-with-the-minimum-score/) | Hard |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
