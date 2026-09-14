@@ -498,6 +498,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0628-maximum-product-of-three-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0788-rotated-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0788-rotated-digits/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0858-mirror-reflection/) | Medium |
 | [0866-prime-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0866-prime-palindrome/) | Medium |
 | [0877-stone-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0877-stone-game/) | Medium |
@@ -660,6 +661,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0858-mirror-reflection/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
