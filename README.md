@@ -236,6 +236,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2607-make-k-subarray-sums-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
@@ -337,6 +338,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2565-subsequence-with-the-minimum-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2565-subsequence-with-the-minimum-score/) | Hard |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -815,6 +817,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1872-stone-game-viii/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2867-count-valid-paths-in-a-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2867-count-valid-paths-in-a-tree/) | Hard |
@@ -926,6 +929,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2396-strictly-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2565-subsequence-with-the-minimum-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2565-subsequence-with-the-minimum-score/) | Hard |
