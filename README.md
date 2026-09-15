@@ -336,6 +336,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1898-maximum-number-of-removable-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [1927-sum-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1927-sum-game/) | Medium |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1960-maximum-product-of-the-length-of-two-palindromic-substrings/) | Hard |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -421,6 +422,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1748-sum-of-unique-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
@@ -511,6 +513,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1819-number-of-different-subsequences-gcds](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1854-maximum-population-year](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1854-maximum-population-year/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2029-stone-game-ix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2029-stone-game-ix/) | Medium |
