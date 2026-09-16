@@ -478,6 +478,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1854-maximum-population-year](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1854-maximum-population-year/) | Easy |
@@ -561,6 +562,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1512-number-of-good-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1563-stone-game-v](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1563-stone-game-v/) | Hard |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
@@ -833,6 +835,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1510-stone-game-iv](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1510-stone-game-iv/) | Hard |
 | [1537-get-the-maximum-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1563-stone-game-v](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
@@ -1263,6 +1266,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1201-ugly-number-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1201-ugly-number-iii/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
