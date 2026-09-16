@@ -131,6 +131,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2905-find-indices-with-index-and-value-difference-ii/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2972-count-the-number-of-incremovable-subarrays-ii/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -532,6 +533,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2748-number-of-beautiful-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3046-split-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3046-split-the-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -1109,6 +1111,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
