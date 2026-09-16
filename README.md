@@ -100,6 +100,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -442,6 +443,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -537,6 +539,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
