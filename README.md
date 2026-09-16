@@ -136,6 +136,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3046-split-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3046-split-the-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3115-maximum-prime-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3115-maximum-prime-difference/) | Medium |
@@ -452,6 +453,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3046-split-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3046-split-the-array/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -531,6 +533,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2833-furthest-point-from-origin](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3046-split-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3046-split-the-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
