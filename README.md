@@ -384,6 +384,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3455-shortest-matching-substring](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3455-shortest-matching-substring/) | Hard |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -483,6 +484,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -570,6 +572,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3046-split-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3046-split-the-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
