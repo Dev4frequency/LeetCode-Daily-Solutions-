@@ -265,6 +265,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3605-minimum-stability-factor-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3605-minimum-stability-factor-of-array/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -391,6 +392,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3504-longest-palindrome-after-substring-concatenation-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -485,6 +487,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3483-unique-3-digit-even-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
@@ -568,6 +571,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3046-split-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3046-split-the-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
@@ -810,6 +814,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
