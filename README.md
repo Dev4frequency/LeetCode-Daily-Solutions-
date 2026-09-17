@@ -398,6 +398,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3556-sum-of-largest-prime-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3692-majority-frequency-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
@@ -498,6 +499,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3663-find-the-least-frequent-digit/) | Easy |
+| [3692-majority-frequency-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -580,6 +582,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3663-find-the-least-frequent-digit/) | Easy |
+| [3692-majority-frequency-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
