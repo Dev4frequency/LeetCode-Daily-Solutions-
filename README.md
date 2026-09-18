@@ -231,6 +231,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [4001-aggregate-two-time-series](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4001-aggregate-two-time-series/) | Medium |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -517,6 +518,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 | [3999-minimum-number-of-string-groups-through-transformations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3999-minimum-number-of-string-groups-through-transformations/) | Hard |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -598,6 +600,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3866-first-unique-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3866-first-unique-even-element/) | Easy |
 | [3978-unique-middle-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3978-unique-middle-element/) | Easy |
 | [4006-count-valid-prefixes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4006-count-valid-prefixes/) | Easy |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
