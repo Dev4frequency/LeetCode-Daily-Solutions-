@@ -416,6 +416,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3998-transform-binary-string-using-subsequence-sort/) | Medium |
 | [3999-minimum-number-of-string-groups-through-transformations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3999-minimum-number-of-string-groups-through-transformations/) | Hard |
+| [4006-count-valid-prefixes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4006-count-valid-prefixes/) | Easy |
 | [4026-maximum-gap-between-stations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -596,6 +597,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3866-first-unique-even-element/) | Easy |
 | [3978-unique-middle-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3978-unique-middle-element/) | Easy |
+| [4006-count-valid-prefixes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4006-count-valid-prefixes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
