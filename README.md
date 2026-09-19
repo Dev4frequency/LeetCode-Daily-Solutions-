@@ -363,6 +363,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1366-rank-teams-by-votes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1419-minimum-number-of-frogs-croaking/) | Medium |
 | [1447-simplified-fractions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1447-simplified-fractions/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1616-split-two-strings-to-make-palindrome/) | Medium |
@@ -596,6 +597,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1366-rank-teams-by-votes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1419-minimum-number-of-frogs-croaking/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1603-design-parking-system](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1603-design-parking-system/) | Easy |
