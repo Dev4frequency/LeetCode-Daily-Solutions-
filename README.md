@@ -364,6 +364,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1616-split-two-strings-to-make-palindrome/) | Medium |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1754-largest-merge-of-two-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1754-largest-merge-of-two-strings/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -470,6 +471,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -588,6 +590,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1704-determine-if-string-halves-are-alike](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
