@@ -273,6 +273,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
+| [2384-largest-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
@@ -390,6 +391,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2284-sender-with-largest-word-count](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2384-largest-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -508,6 +510,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2347-best-poker-hand](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2347-best-poker-hand/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2384-largest-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -636,6 +639,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2347-best-poker-hand/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2384-largest-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
