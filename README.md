@@ -393,6 +393,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2506-count-pairs-of-similar-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2531-make-number-of-distinct-characters-equal/) | Medium |
 | [2565-subsequence-with-the-minimum-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2565-subsequence-with-the-minimum-score/) | Hard |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
@@ -512,6 +513,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2465-number-of-distinct-averages](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2531-make-number-of-distinct-characters-equal/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2584-split-the-array-to-make-coprime-products/) | Hard |
 | [2615-sum-of-distances](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2615-sum-of-distances/) | Medium |
@@ -635,6 +637,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2404-most-frequent-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2531-make-number-of-distinct-characters-equal/) | Medium |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2833-furthest-point-from-origin/) | Easy |
