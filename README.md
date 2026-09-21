@@ -164,6 +164,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3115-maximum-prime-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3161-block-placement-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3161-block-placement-queries/) | Hard |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
@@ -555,6 +556,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
 | [3238-find-the-number-of-winning-players](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3238-find-the-number-of-winning-players/) | Easy |
@@ -679,6 +681,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3046-split-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3046-split-the-array/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
 | [3238-find-the-number-of-winning-players](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3238-find-the-number-of-winning-players/) | Easy |
@@ -772,6 +775,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
