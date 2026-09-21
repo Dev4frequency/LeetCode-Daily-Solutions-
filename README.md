@@ -163,6 +163,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3093-longest-common-suffix-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3115-maximum-prime-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3128-right-triangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3128-right-triangles/) | Medium |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3161-block-placement-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3161-block-placement-queries/) | Hard |
@@ -556,6 +557,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3128-right-triangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3128-right-triangles/) | Medium |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3137-minimum-number-of-operations-to-make-word-k-periodic/) | Medium |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
@@ -682,6 +684,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3039-apply-operations-to-make-string-empty](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3046-split-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3046-split-the-array/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
+| [3128-right-triangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3128-right-triangles/) | Medium |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3137-minimum-number-of-operations-to-make-word-k-periodic/) | Medium |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
@@ -778,6 +781,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3128-right-triangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3128-right-triangles/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
@@ -1470,6 +1474,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3128-right-triangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3128-right-triangles/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
