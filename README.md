@@ -425,6 +425,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3093-longest-common-suffix-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3137-minimum-number-of-operations-to-make-word-k-periodic/) | Medium |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -555,6 +556,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3137-minimum-number-of-operations-to-make-word-k-periodic/) | Medium |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
@@ -680,6 +682,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3039-apply-operations-to-make-string-empty](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3046-split-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3046-split-the-array/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
+| [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3137-minimum-number-of-operations-to-make-word-k-periodic/) | Medium |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
