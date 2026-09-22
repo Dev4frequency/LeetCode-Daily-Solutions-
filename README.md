@@ -232,6 +232,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
+| [3805-count-caesar-cipher-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3814-maximum-capacity-within-budget](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3850-count-sequences-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3850-count-sequences-to-k/) | Hard |
@@ -460,6 +461,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3805-count-caesar-cipher-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3844-longest-almost-palindromic-substring](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3844-longest-almost-palindromic-substring/) | Medium |
@@ -598,6 +600,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3731-find-missing-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3805-count-caesar-cipher-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3866-first-unique-even-element/) | Easy |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
@@ -717,6 +720,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
+| [3805-count-caesar-cipher-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3866-first-unique-even-element/) | Easy |
 | [3978-unique-middle-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3978-unique-middle-element/) | Easy |
@@ -844,6 +848,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3765-complete-prime-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3765-complete-prime-number/) | Medium |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
+| [3805-count-caesar-cipher-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3850-count-sequences-to-k/) | Hard |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3855-sum-of-k-digit-numbers-in-a-range/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
