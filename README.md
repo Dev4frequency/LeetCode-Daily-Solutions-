@@ -292,6 +292,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -422,6 +423,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -554,6 +556,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3046-split-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3046-split-the-array/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -684,6 +687,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3039-apply-operations-to-make-string-empty](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3046-split-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3046-split-the-array/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3128-right-triangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3128-right-triangles/) | Medium |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3137-minimum-number-of-operations-to-make-word-k-periodic/) | Medium |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
@@ -949,6 +953,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
@@ -1416,6 +1421,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1054-distant-barcodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1054-distant-barcodes/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3620-network-recovery-pathways/) | Hard |
