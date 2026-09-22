@@ -235,6 +235,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3805-count-caesar-cipher-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3814-maximum-capacity-within-budget](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3839-number-of-prefix-connected-groups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3850-count-sequences-to-k/) | Hard |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
@@ -465,6 +466,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3805-count-caesar-cipher-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3839-number-of-prefix-connected-groups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3844-longest-almost-palindromic-substring](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3844-longest-almost-palindromic-substring/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3983-subsequence-after-one-replacement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3983-subsequence-after-one-replacement/) | Medium |
@@ -602,6 +604,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3805-count-caesar-cipher-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
+| [3839-number-of-prefix-connected-groups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3866-first-unique-even-element/) | Easy |
@@ -723,6 +726,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
+| [3839-number-of-prefix-connected-groups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3866-first-unique-even-element/) | Easy |
