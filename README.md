@@ -735,6 +735,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3805-count-caesar-cipher-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+| [3848-check-digitorial-permutation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3848-check-digitorial-permutation/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3866-first-unique-even-element/) | Easy |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
@@ -864,6 +865,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3765-complete-prime-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3765-complete-prime-number/) | Medium |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
+| [3848-check-digitorial-permutation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3848-check-digitorial-permutation/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3850-count-sequences-to-k/) | Hard |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3855-sum-of-k-digit-numbers-in-a-range/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
