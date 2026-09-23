@@ -473,6 +473,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3839-number-of-prefix-connected-groups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3844-longest-almost-palindromic-substring](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3844-longest-almost-palindromic-substring/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
+| [3913-sort-vowels-by-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 | [3983-subsequence-after-one-replacement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3983-subsequence-after-one-replacement/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3998-transform-binary-string-using-subsequence-sort/) | Medium |
@@ -741,6 +742,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3866-first-unique-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3866-first-unique-even-element/) | Easy |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
+| [3913-sort-vowels-by-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 | [3978-unique-middle-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3978-unique-middle-element/) | Easy |
 | [4006-count-valid-prefixes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4006-count-valid-prefixes/) | Easy |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
@@ -1010,6 +1012,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
+| [3913-sort-vowels-by-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Breadth-First Search
