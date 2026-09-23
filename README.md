@@ -249,6 +249,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3901-good-subsequence-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3901-good-subsequence-queries/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3926-count-valid-word-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3926-count-valid-word-occurrences/) | Medium |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
@@ -474,6 +475,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3844-longest-almost-palindromic-substring](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3844-longest-almost-palindromic-substring/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3913-sort-vowels-by-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
+| [3926-count-valid-word-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3926-count-valid-word-occurrences/) | Medium |
 | [3983-subsequence-after-one-replacement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3983-subsequence-after-one-replacement/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3998-transform-binary-string-using-subsequence-sort/) | Medium |
@@ -616,6 +618,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3866-first-unique-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3866-first-unique-even-element/) | Easy |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
+| [3926-count-valid-word-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3926-count-valid-word-occurrences/) | Medium |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 | [3999-minimum-number-of-string-groups-through-transformations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3999-minimum-number-of-string-groups-through-transformations/) | Hard |
@@ -743,6 +746,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
+| [3926-count-valid-word-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3926-count-valid-word-occurrences/) | Medium |
 | [3978-unique-middle-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3978-unique-middle-element/) | Easy |
 | [4006-count-valid-prefixes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4006-count-valid-prefixes/) | Easy |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
