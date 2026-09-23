@@ -28,6 +28,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0942-di-string-match](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0942-di-string-match/) | Easy |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0969-pancake-sorting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0969-pancake-sorting/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1023-camelcase-matching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1023-camelcase-matching/) | Medium |
 | [1054-distant-barcodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1054-distant-barcodes/) | Medium |
@@ -500,6 +501,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [0992-subarrays-with-k-different-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1054-distant-barcodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1054-distant-barcodes/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1090-largest-values-from-labels/) | Medium |
@@ -655,6 +657,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1054-distant-barcodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1054-distant-barcodes/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1090-largest-values-from-labels/) | Medium |
@@ -1388,6 +1391,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
