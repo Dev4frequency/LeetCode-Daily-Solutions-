@@ -177,6 +177,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3238-find-the-number-of-winning-players](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
 | [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii/) | Medium |
+| [3267-count-almost-equal-pairs-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3267-count-almost-equal-pairs-ii/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -589,6 +590,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
 | [3238-find-the-number-of-winning-players](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3238-find-the-number-of-winning-players/) | Easy |
+| [3267-count-almost-equal-pairs-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3267-count-almost-equal-pairs-ii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
@@ -728,6 +730,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
 | [3238-find-the-number-of-winning-players](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3238-find-the-number-of-winning-players/) | Easy |
+| [3267-count-almost-equal-pairs-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3267-count-almost-equal-pairs-ii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
@@ -1009,6 +1012,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
+| [3267-count-almost-equal-pairs-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3267-count-almost-equal-pairs-ii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -1439,6 +1443,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
+| [3267-count-almost-equal-pairs-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3267-count-almost-equal-pairs-ii/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
