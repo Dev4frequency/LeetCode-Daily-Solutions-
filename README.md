@@ -125,6 +125,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2506-count-pairs-of-similar-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
@@ -561,6 +562,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2531-make-number-of-distinct-characters-equal/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2584-split-the-array-to-make-coprime-products/) | Hard |
 | [2615-sum-of-distances](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -711,6 +713,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2506-count-pairs-of-similar-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2531-make-number-of-distinct-characters-equal/) | Medium |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -1100,6 +1103,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1872-stone-game-viii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1872-stone-game-viii/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2867-count-valid-paths-in-a-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2867-count-valid-paths-in-a-tree/) | Hard |
