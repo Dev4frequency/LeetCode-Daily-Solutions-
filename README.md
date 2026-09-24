@@ -57,6 +57,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1563-stone-game-v](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1563-stone-game-v/) | Hard |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
+| [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
@@ -528,6 +529,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
+| [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
@@ -688,6 +690,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1512-number-of-good-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1603-design-parking-system](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1603-design-parking-system/) | Easy |
+| [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
@@ -1120,6 +1123,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1537-get-the-maximum-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1563-stone-game-v](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1787-make-the-xor-of-all-segments-equal-to-zero/) | Hard |
@@ -1406,6 +1410,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0832-flipping-an-image/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1787-make-the-xor-of-all-segments-equal-to-zero/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
@@ -1670,12 +1675,14 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3669-balanced-k-factor-decomposition](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3669-balanced-k-factor-decomposition/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
