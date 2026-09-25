@@ -242,6 +242,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3785-minimum-swaps-to-avoid-forbidden-values/) | Hard |
 | [3805-count-caesar-cipher-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3814-maximum-capacity-within-budget](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -331,6 +332,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3691-maximum-total-subarray-value-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3785-minimum-swaps-to-avoid-forbidden-values/) | Hard |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3998-transform-binary-string-using-subsequence-sort/) | Medium |
@@ -639,6 +641,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3731-find-missing-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3785-minimum-swaps-to-avoid-forbidden-values/) | Hard |
 | [3805-count-caesar-cipher-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3843-first-element-with-unique-frequency/) | Medium |
@@ -780,6 +783,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3785-minimum-swaps-to-avoid-forbidden-values/) | Hard |
 | [3805-count-caesar-cipher-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3843-first-element-with-unique-frequency/) | Medium |
