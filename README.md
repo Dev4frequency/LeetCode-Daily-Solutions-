@@ -463,6 +463,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3389-minimum-operations-to-make-character-frequencies-equal/) | Hard |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3455-shortest-matching-substring](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3455-shortest-matching-substring/) | Hard |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
@@ -618,6 +619,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3316-find-maximum-removals-from-source-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3389-minimum-operations-to-make-character-frequencies-equal/) | Hard |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -769,6 +771,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3267-count-almost-equal-pairs-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3267-count-almost-equal-pairs-ii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
+| [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3389-minimum-operations-to-make-character-frequencies-equal/) | Hard |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3527-find-the-most-common-response](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3527-find-the-most-common-response/) | Medium |
@@ -1161,6 +1164,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3389-minimum-operations-to-make-character-frequencies-equal/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3444-minimum-increments-for-target-multiples-in-an-array/) | Hard |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3503-longest-palindrome-after-substring-concatenation-i/) | Medium |
@@ -1500,6 +1504,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3267-count-almost-equal-pairs-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3267-count-almost-equal-pairs-ii/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
+| [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3389-minimum-operations-to-make-character-frequencies-equal/) | Hard |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
