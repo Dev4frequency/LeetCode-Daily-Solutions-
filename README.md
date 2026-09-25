@@ -15,6 +15,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0463-island-perimeter](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0463-island-perimeter/) | Easy |
 | [0475-heaters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0475-heaters/) | Medium |
 | [0486-predict-the-winner](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0486-predict-the-winner/) | Medium |
+| [0495-teemo-attacking](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0495-teemo-attacking/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -1412,6 +1413,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0258-add-digits/) | Easy |
+| [0495-teemo-attacking](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0495-teemo-attacking/) | Easy |
 | [0832-flipping-an-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0844-backspace-string-compare/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1260-shift-2d-grid/) | Easy |
