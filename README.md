@@ -389,6 +389,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0942-di-string-match](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0942-di-string-match/) | Easy |
 | [1023-camelcase-matching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1023-camelcase-matching/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1163-last-substring-in-lexicographical-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1163-last-substring-in-lexicographical-order/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -516,6 +517,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1054-distant-barcodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1054-distant-barcodes/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1090-largest-values-from-labels/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1345-jump-game-iv/) | Hard |
@@ -1000,6 +1002,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0969-pancake-sorting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0969-pancake-sorting/) | Medium |
 | [1054-distant-barcodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1054-distant-barcodes/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1090-largest-values-from-labels/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1340-jump-game-v/) | Hard |
@@ -1068,6 +1071,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -1533,6 +1537,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0844-backspace-string-compare/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
@@ -1675,6 +1680,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
