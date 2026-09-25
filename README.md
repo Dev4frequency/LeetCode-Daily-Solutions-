@@ -268,6 +268,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3984-divisible-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3984-divisible-game/) | Medium |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3998-transform-binary-string-using-subsequence-sort/) | Medium |
 | [4001-aggregate-two-time-series](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4001-aggregate-two-time-series/) | Medium |
+| [4007-widest-possible-fence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4007-widest-possible-fence/) | Hard |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
@@ -648,6 +649,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 | [3960-frequency-balance-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3960-frequency-balance-subarray/) | Medium |
 | [3999-minimum-number-of-string-groups-through-transformations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3999-minimum-number-of-string-groups-through-transformations/) | Hard |
+| [4007-widest-possible-fence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4007-widest-possible-fence/) | Hard |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -788,6 +790,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 | [3978-unique-middle-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3978-unique-middle-element/) | Easy |
 | [4006-count-valid-prefixes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4006-count-valid-prefixes/) | Easy |
+| [4007-widest-possible-fence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4007-widest-possible-fence/) | Hard |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -1501,6 +1504,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 | [3984-divisible-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3984-divisible-game/) | Medium |
+| [4007-widest-possible-fence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4007-widest-possible-fence/) | Hard |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
