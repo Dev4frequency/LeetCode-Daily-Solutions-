@@ -262,6 +262,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
+| [3943-number-of-pairs-after-increment](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3943-number-of-pairs-after-increment/) | Hard |
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 | [3960-frequency-balance-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3960-frequency-balance-subarray/) | Medium |
 | [3978-unique-middle-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3978-unique-middle-element/) | Easy |
@@ -646,6 +647,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3926-count-valid-word-occurrences/) | Medium |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
+| [3943-number-of-pairs-after-increment](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3943-number-of-pairs-after-increment/) | Hard |
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 | [3960-frequency-balance-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3960-frequency-balance-subarray/) | Medium |
 | [3999-minimum-number-of-string-groups-through-transformations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3999-minimum-number-of-string-groups-through-transformations/) | Hard |
@@ -786,6 +788,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3926-count-valid-word-occurrences/) | Medium |
+| [3943-number-of-pairs-after-increment](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3943-number-of-pairs-after-increment/) | Hard |
 | [3960-frequency-balance-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3960-frequency-balance-subarray/) | Medium |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 | [3978-unique-middle-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3978-unique-middle-element/) | Easy |
@@ -1556,6 +1559,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3855-sum-of-k-digit-numbers-in-a-range/) | Hard |
+| [3943-number-of-pairs-after-increment](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3943-number-of-pairs-after-increment/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
