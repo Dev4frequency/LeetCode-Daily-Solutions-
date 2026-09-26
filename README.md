@@ -11,6 +11,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0396-rotate-function/) | Medium |
 | [0414-third-maximum-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0414-third-maximum-number/) | Easy |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0457-circular-array-loop](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0457-circular-array-loop/) | Medium |
 | [0463-island-perimeter](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0463-island-perimeter/) | Easy |
 | [0475-heaters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0475-heaters/) | Medium |
@@ -512,6 +513,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1023-camelcase-matching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1023-camelcase-matching/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -519,6 +521,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0457-circular-array-loop](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0457-circular-array-loop/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -1440,6 +1443,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0832-flipping-an-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0832-flipping-an-image/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
