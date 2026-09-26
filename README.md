@@ -9,6 +9,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0048-rotate-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0384-shuffle-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0384-shuffle-an-array/) | Medium |
 | [0391-perfect-rectangle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0391-perfect-rectangle/) | Hard |
 | [0393-utf-8-validation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0393-utf-8-validation/) | Medium |
 | [0396-rotate-function](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0396-rotate-function/) | Medium |
@@ -828,6 +829,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0048-rotate-image/) | Medium |
 | [0258-add-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0258-add-digits/) | Easy |
+| [0384-shuffle-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0384-shuffle-an-array/) | Medium |
 | [0391-perfect-rectangle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0391-perfect-rectangle/) | Hard |
 | [0396-rotate-function](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0486-predict-the-winner/) | Medium |
@@ -1880,6 +1882,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0384-shuffle-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0384-shuffle-an-array/) | Medium |
 | [1603-design-parking-system](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1603-design-parking-system/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## DP on Trees
@@ -1894,4 +1897,8 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0391-perfect-rectangle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0391-perfect-rectangle/) | Hard |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0384-shuffle-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0384-shuffle-an-array/) | Medium |
 <!---LeetCode Topics End-->
