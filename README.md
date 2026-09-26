@@ -9,6 +9,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0048-rotate-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0393-utf-8-validation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0393-utf-8-validation/) | Medium |
 | [0396-rotate-function](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0403-frog-jump/) | Hard |
 | [0406-queue-reconstruction-by-height](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0406-queue-reconstruction-by-height/) | Medium |
@@ -1452,6 +1453,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0393-utf-8-validation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0393-utf-8-validation/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0832-flipping-an-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0832-flipping-an-image/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1386-cinema-seat-allocation/) | Medium |
