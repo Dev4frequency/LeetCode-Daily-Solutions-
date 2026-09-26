@@ -9,6 +9,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0048-rotate-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0391-perfect-rectangle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0391-perfect-rectangle/) | Hard |
 | [0393-utf-8-validation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0393-utf-8-validation/) | Medium |
 | [0396-rotate-function](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0403-frog-jump/) | Hard |
@@ -527,6 +528,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0391-perfect-rectangle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0391-perfect-rectangle/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0457-circular-array-loop](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0457-circular-array-loop/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
@@ -826,6 +828,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0048-rotate-image/) | Medium |
 | [0258-add-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0258-add-digits/) | Easy |
+| [0391-perfect-rectangle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0391-perfect-rectangle/) | Hard |
 | [0396-rotate-function](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0486-predict-the-winner/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0556-next-greater-element-iii/) | Medium |
@@ -1016,6 +1019,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0391-perfect-rectangle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0391-perfect-rectangle/) | Hard |
 | [0836-rectangle-overlap](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0858-mirror-reflection/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -1886,4 +1890,8 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0391-perfect-rectangle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0391-perfect-rectangle/) | Hard |
 <!---LeetCode Topics End-->
