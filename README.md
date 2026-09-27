@@ -34,6 +34,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0566-reshape-the-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0575-distribute-candies/) | Easy |
 | [0598-range-addition-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0598-range-addition-ii/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
@@ -411,6 +412,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0541-reverse-string-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0541-reverse-string-ii/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0796-rotate-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0796-rotate-string/) | Easy |
@@ -550,6 +552,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0500-keyboard-row](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0500-keyboard-row/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0575-distribute-candies](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0575-distribute-candies/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
