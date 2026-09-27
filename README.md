@@ -30,6 +30,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0697-degree-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0832-flipping-an-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0835-image-overlap/) | Medium |
@@ -541,6 +542,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0457-circular-array-loop](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0457-circular-array-loop/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0697-degree-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
