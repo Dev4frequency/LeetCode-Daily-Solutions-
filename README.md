@@ -31,6 +31,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0500-keyboard-row](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0500-keyboard-row/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
@@ -1147,6 +1148,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0048-rotate-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0048-rotate-image/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0463-island-perimeter/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1260-shift-2d-grid/) | Easy |
@@ -1453,6 +1455,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0258-add-digits/) | Easy |
 | [0495-teemo-attacking](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0495-teemo-attacking/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0844-backspace-string-compare/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1260-shift-2d-grid/) | Easy |
