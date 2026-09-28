@@ -40,6 +40,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0697-degree-of-an-array/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0832-flipping-an-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0835-image-overlap/) | Medium |
@@ -1172,6 +1173,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0463-island-perimeter](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0463-island-perimeter/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0661-image-smoother](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0661-image-smoother/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0867-transpose-matrix/) | Easy |
