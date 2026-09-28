@@ -46,6 +46,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0845-longest-mountain-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0877-stone-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0908-smallest-range-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0923-3sum-with-multiplicity/) | Medium |
@@ -873,6 +874,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0858-mirror-reflection](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0858-mirror-reflection/) | Medium |
 | [0866-prime-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0866-prime-palindrome/) | Medium |
 | [0877-stone-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0877-stone-game/) | Medium |
+| [0908-smallest-range-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
