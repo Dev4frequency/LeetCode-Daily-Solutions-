@@ -40,6 +40,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0697-degree-of-an-array/) | Easy |
+| [0748-shortest-completing-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0832-flipping-an-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0832-flipping-an-image/) | Easy |
@@ -423,6 +424,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0748-shortest-completing-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0796-rotate-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0844-backspace-string-compare/) | Easy |
@@ -567,6 +569,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0697-degree-of-an-array/) | Easy |
+| [0748-shortest-completing-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0929-unique-email-addresses/) | Easy |
