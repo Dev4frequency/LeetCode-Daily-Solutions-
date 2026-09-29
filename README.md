@@ -62,6 +62,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0969-pancake-sorting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0969-pancake-sorting/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1023-camelcase-matching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1023-camelcase-matching/) | Medium |
 | [1037-valid-boomerang](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1037-valid-boomerang/) | Easy |
 | [1046-last-stone-weight](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1046-last-stone-weight/) | Easy |
@@ -320,6 +321,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0680-valid-palindrome-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0942-di-string-match](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0942-di-string-match/) | Easy |
 | [0969-pancake-sorting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0969-pancake-sorting/) | Medium |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1054-distant-barcodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1054-distant-barcodes/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1090-largest-values-from-labels/) | Medium |
