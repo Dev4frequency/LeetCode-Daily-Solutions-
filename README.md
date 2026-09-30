@@ -75,6 +75,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1260-shift-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1260-shift-2d-grid/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -604,6 +605,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1090-largest-values-from-labels](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1345-jump-game-iv/) | Hard |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -1216,6 +1218,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0867-transpose-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0867-transpose-matrix/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1260-shift-2d-grid/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -1528,6 +1531,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0844-backspace-string-compare](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1260-shift-2d-grid/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1603-design-parking-system](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1603-design-parking-system/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
