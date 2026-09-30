@@ -75,6 +75,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1260-shift-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1260-shift-2d-grid/) | Easy |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
