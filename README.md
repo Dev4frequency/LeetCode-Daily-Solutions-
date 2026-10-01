@@ -434,6 +434,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0466-count-the-repetitions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0466-count-the-repetitions/) | Hard |
@@ -1690,6 +1691,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0844-backspace-string-compare/) | Easy |
@@ -2025,6 +2027,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
