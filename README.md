@@ -105,6 +105,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1512-number-of-good-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1528-shuffle-string/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1537-get-the-maximum-score/) | Hard |
+| [1539-kth-missing-positive-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1563-stone-game-v](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1563-stone-game-v/) | Hard |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
@@ -1065,6 +1066,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
