@@ -110,6 +110,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1563-stone-game-v](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1563-stone-game-v/) | Hard |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1627-graph-connectivity-with-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
@@ -1241,6 +1242,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1861-rotating-the-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
