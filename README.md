@@ -107,6 +107,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1537-get-the-maximum-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1539-kth-missing-positive-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1563-stone-game-v](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1563-stone-game-v/) | Hard |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -1550,6 +1551,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1260-shift-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1603-design-parking-system](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1603-design-parking-system/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2105-watering-plants-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2105-watering-plants-ii/) | Medium |
