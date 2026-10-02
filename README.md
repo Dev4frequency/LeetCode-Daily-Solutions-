@@ -117,6 +117,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1627-graph-connectivity-with-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1629-slowest-key](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1629-slowest-key/) | Easy |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -1155,6 +1156,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
