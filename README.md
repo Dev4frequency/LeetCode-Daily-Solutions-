@@ -122,6 +122,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1656-design-an-ordered-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1672-richest-customer-wealth](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
@@ -1257,6 +1258,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1861-rotating-the-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
