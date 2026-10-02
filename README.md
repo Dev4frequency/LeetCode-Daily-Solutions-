@@ -129,6 +129,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1720-decode-xored-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1720-decode-xored-array/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [1748-sum-of-unique-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
