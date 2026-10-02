@@ -116,6 +116,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1627-graph-connectivity-with-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
+| [1629-slowest-key](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1629-slowest-key/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -490,6 +491,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1528-shuffle-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1528-shuffle-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1616-split-two-strings-to-make-palindrome/) | Medium |
+| [1629-slowest-key](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1629-slowest-key/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1754-largest-merge-of-two-strings/) | Medium |
