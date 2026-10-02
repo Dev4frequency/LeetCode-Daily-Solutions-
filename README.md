@@ -125,6 +125,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1672-richest-customer-wealth](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
+| [1710-maximum-units-on-a-truck](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
@@ -360,6 +361,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1537-get-the-maximum-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1710-maximum-units-on-a-truck](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1754-largest-merge-of-two-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1775-equal-sum-arrays-with-minimum-number-of-operations/) | Medium |
@@ -1164,6 +1166,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
+| [1710-maximum-units-on-a-truck](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
