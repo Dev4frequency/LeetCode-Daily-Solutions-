@@ -145,6 +145,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [1816-truncate-sentence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1816-truncate-sentence/) | Easy |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
@@ -520,6 +521,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1773-count-items-matching-a-rule](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1816-truncate-sentence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1816-truncate-sentence/) | Easy |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
