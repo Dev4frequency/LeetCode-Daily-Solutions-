@@ -153,6 +153,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1861-rotating-the-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1861-rotating-the-box/) | Medium |
 | [1862-sum-of-floored-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1862-sum-of-floored-pairs/) | Hard |
 | [1872-stone-game-viii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1872-stone-game-viii/) | Hard |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1898-maximum-number-of-removable-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -672,6 +673,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1814-count-nice-pairs-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1982-find-array-given-subset-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1982-find-array-given-subset-sums/) | Hard |
 | [1995-count-special-quadruplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1995-count-special-quadruplets/) | Easy |
@@ -800,6 +802,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1862-sum-of-floored-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1862-sum-of-floored-pairs/) | Hard |
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1872-stone-game-viii/) | Hard |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2574-left-and-right-sum-differences/) | Easy |
