@@ -159,6 +159,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1982-find-array-given-subset-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1982-find-array-given-subset-sums/) | Hard |
+| [1991-find-the-middle-index-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1995-count-special-quadruplets/) | Easy |
 | [1998-gcd-sort-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
@@ -797,6 +798,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1862-sum-of-floored-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1862-sum-of-floored-pairs/) | Hard |
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1872-stone-game-viii/) | Hard |
+| [1991-find-the-middle-index-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2615-sum-of-distances/) | Medium |
