@@ -146,6 +146,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -377,6 +378,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1754-largest-merge-of-two-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1775-equal-sum-arrays-with-minimum-number-of-operations/) | Medium |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
