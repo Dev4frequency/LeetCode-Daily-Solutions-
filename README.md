@@ -165,6 +165,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2029-stone-game-ix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2057-smallest-index-with-equal-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
