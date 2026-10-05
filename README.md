@@ -188,6 +188,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
@@ -1213,6 +1214,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2126-destroying-asteroids](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
