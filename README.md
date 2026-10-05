@@ -197,6 +197,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2239-find-closest-number-to-zero](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2284-sender-with-largest-word-count/) | Medium |
@@ -543,6 +544,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
