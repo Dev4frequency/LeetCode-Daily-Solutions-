@@ -203,6 +203,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2284-sender-with-largest-word-count](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2293-min-max-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2293-min-max-game/) | Easy |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2347-best-poker-hand/) | Easy |
@@ -1307,6 +1308,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
