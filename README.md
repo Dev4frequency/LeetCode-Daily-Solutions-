@@ -205,6 +205,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2347-best-poker-hand/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -402,6 +403,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2384-largest-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2499-minimum-total-cost-to-make-arrays-unequal/) | Hard |
@@ -1224,6 +1226,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
@@ -1769,6 +1772,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1054-distant-barcodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1054-distant-barcodes/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
