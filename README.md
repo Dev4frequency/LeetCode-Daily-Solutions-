@@ -183,6 +183,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2122-recover-the-original-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2122-recover-the-original-array/) | Hard |
 | [2126-destroying-asteroids](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2126-destroying-asteroids/) | Medium |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
@@ -691,6 +692,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2122-recover-the-original-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2122-recover-the-original-array/) | Hard |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
@@ -1296,6 +1298,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1861-rotating-the-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2614-prime-in-diagonal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
