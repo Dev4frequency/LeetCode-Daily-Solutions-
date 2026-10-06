@@ -211,6 +211,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2363-merge-similar-items/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2399-check-distances-between-same-letters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2432-the-employee-that-worked-on-the-longest-task/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -563,6 +564,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2384-largest-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2384-largest-palindromic-number/) | Medium |
+| [2399-check-distances-between-same-letters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2451-odd-string-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2451-odd-string-difference/) | Easy |
@@ -729,6 +731,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2363-merge-similar-items](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2363-merge-similar-items/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2384-largest-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2384-largest-palindromic-number/) | Medium |
+| [2399-check-distances-between-same-letters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
