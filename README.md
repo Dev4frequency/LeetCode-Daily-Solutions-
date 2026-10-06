@@ -383,6 +383,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0376-wiggle-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0942-di-string-match](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0942-di-string-match/) | Easy |
 | [0969-pancake-sorting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0969-pancake-sorting/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
@@ -514,6 +515,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0844-backspace-string-compare](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0856-score-of-parentheses/) | Medium |
 | [0917-reverse-only-letters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0917-reverse-only-letters/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0925-long-pressed-name](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0925-long-pressed-name/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0929-unique-email-addresses/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -1821,6 +1823,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0682-baseball-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -2161,6 +2164,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0022-generate-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
