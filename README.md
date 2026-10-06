@@ -214,6 +214,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2404-most-frequent-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2451-odd-string-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2451-odd-string-difference/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -562,6 +563,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2351-first-letter-to-appear-twice](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2384-largest-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2451-odd-string-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2451-odd-string-difference/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
