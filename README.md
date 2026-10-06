@@ -212,6 +212,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2363-merge-similar-items](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2363-merge-similar-items/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2432-the-employee-that-worked-on-the-longest-task/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
