@@ -211,6 +211,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2363-merge-similar-items/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -415,6 +416,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2384-largest-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2384-largest-palindromic-number/) | Medium |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2499-minimum-total-cost-to-make-arrays-unequal/) | Hard |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
@@ -843,6 +845,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2615-sum-of-distances/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2947-count-beautiful-substrings-i/) | Medium |
@@ -1153,6 +1156,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2513-minimize-the-maximum-of-two-arrays/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
 | [2565-subsequence-with-the-minimum-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2565-subsequence-with-the-minimum-score/) | Hard |
@@ -1249,6 +1253,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2363-merge-similar-items/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
