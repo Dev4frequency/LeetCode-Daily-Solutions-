@@ -497,6 +497,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0020-valid-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0115-distinct-subsequences/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0466-count-the-repetitions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0466-count-the-repetitions/) | Hard |
 | [0481-magical-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0481-magical-string/) | Medium |
@@ -1300,6 +1301,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0463-island-perimeter](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0463-island-perimeter/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0733-flood-fill/) | Easy |
@@ -1975,6 +1977,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
