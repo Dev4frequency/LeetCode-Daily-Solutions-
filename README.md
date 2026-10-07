@@ -245,6 +245,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2614-prime-in-diagonal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2615-sum-of-distances](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2615-sum-of-distances/) | Medium |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
@@ -428,6 +429,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2607-make-k-subarray-sums-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
