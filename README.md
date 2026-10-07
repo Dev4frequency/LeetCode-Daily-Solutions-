@@ -233,6 +233,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
+| [2549-count-distinct-numbers-on-board](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
@@ -765,6 +766,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2531-make-number-of-distinct-characters-equal/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
+| [2549-count-distinct-numbers-on-board](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2584-split-the-array-to-make-coprime-products/) | Hard |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2615-sum-of-distances](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2615-sum-of-distances/) | Medium |
@@ -1067,6 +1069,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2514-count-anagrams](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2514-count-anagrams/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2543-check-if-point-is-reachable](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2543-check-if-point-is-reachable/) | Hard |
+| [2549-count-distinct-numbers-on-board](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2584-split-the-array-to-make-coprime-products/) | Hard |
 | [2607-make-k-subarray-sums-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
@@ -1676,6 +1679,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2549-count-distinct-numbers-on-board](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
