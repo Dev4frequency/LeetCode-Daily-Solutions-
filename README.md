@@ -229,6 +229,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2499-minimum-total-cost-to-make-arrays-unequal/) | Hard |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -1277,6 +1278,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2607-make-k-subarray-sums-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
@@ -1361,6 +1363,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -1680,6 +1683,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2293-min-max-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2293-min-max-game/) | Easy |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -1829,6 +1833,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
