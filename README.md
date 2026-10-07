@@ -246,6 +246,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2615-sum-of-distances](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2615-sum-of-distances/) | Medium |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2709-greatest-common-divisor-traversal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [2748-number-of-beautiful-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2748-number-of-beautiful-pairs/) | Easy |
@@ -1669,6 +1670,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
