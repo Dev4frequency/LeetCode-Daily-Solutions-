@@ -231,6 +231,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2499-minimum-total-cost-to-make-arrays-unequal/) | Hard |
 | [2506-count-pairs-of-similar-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2540-minimum-common-value/) | Easy |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [2549-count-distinct-numbers-on-board](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
@@ -1068,6 +1069,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2513-minimize-the-maximum-of-two-arrays/) | Medium |
 | [2514-count-anagrams](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2514-count-anagrams/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2543-check-if-point-is-reachable](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [2549-count-distinct-numbers-on-board](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
