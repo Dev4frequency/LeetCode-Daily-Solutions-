@@ -244,6 +244,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2607-make-k-subarray-sums-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2615-sum-of-distances](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2615-sum-of-distances/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -1353,6 +1354,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
