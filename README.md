@@ -260,6 +260,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2761-prime-pairs-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2788-split-strings-by-separator](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
@@ -595,6 +596,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2565-subsequence-with-the-minimum-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2565-subsequence-with-the-minimum-score/) | Hard |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
+| [2788-split-strings-by-separator](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
