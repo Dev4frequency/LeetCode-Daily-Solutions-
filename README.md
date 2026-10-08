@@ -257,6 +257,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2670-find-the-distinct-difference-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2709-greatest-common-divisor-traversal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [2748-number-of-beautiful-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -1738,6 +1739,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
