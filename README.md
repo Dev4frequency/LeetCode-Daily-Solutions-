@@ -271,6 +271,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2862-maximum-element-sum-of-a-complete-subset-of-indices/) | Hard |
+| [2899-last-visited-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2899-last-visited-integers/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2905-find-indices-with-index-and-value-difference-ii/) | Medium |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
@@ -1717,6 +1718,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2682-find-the-losers-of-the-circular-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2717-semi-ordered-permutation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2717-semi-ordered-permutation/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2899-last-visited-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2899-last-visited-integers/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
