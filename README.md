@@ -271,6 +271,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2862-maximum-element-sum-of-a-complete-subset-of-indices/) | Hard |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2899-last-visited-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2899-last-visited-integers/) | Easy |
@@ -1752,6 +1753,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2506-count-pairs-of-similar-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2917-find-the-k-or-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
