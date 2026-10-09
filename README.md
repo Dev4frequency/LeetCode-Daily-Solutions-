@@ -270,6 +270,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2862-maximum-element-sum-of-a-complete-subset-of-indices/) | Hard |
