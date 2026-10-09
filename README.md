@@ -273,6 +273,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2862-maximum-element-sum-of-a-complete-subset-of-indices/) | Hard |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2905-find-indices-with-index-and-value-difference-ii/) | Medium |
+| [2923-find-champion-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2923-find-champion-i/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -1387,6 +1388,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2923-find-champion-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2923-find-champion-i/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
