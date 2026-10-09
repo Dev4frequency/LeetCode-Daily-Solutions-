@@ -273,6 +273,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2862-maximum-element-sum-of-a-complete-subset-of-indices/) | Hard |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2905-find-indices-with-index-and-value-difference-ii/) | Medium |
+| [2917-find-the-k-or-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 | [2923-find-champion-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2923-find-champion-i/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -1741,6 +1742,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2506-count-pairs-of-similar-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2917-find-the-k-or-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3444-minimum-increments-for-target-multiples-in-an-array/) | Hard |
