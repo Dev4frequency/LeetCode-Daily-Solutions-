@@ -296,6 +296,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3033-modify-the-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3033-modify-the-matrix/) | Easy |
 | [3035-maximum-palindromes-after-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -1413,6 +1414,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2643-row-with-maximum-ones](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2923-find-champion-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2923-find-champion-i/) | Easy |
+| [3033-modify-the-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3033-modify-the-matrix/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
