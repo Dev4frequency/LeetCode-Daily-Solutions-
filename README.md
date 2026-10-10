@@ -310,6 +310,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3127-make-a-square-with-the-same-color](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
 | [3128-right-triangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3128-right-triangles/) | Medium |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
@@ -1421,6 +1422,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2923-find-champion-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2923-find-champion-i/) | Easy |
 | [3033-modify-the-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3033-modify-the-matrix/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
+| [3127-make-a-square-with-the-same-color](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
 | [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii/) | Medium |
@@ -1854,6 +1856,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2951-find-the-peaks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2951-find-the-peaks/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3127-make-a-square-with-the-same-color](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3267-count-almost-equal-pairs-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3267-count-almost-equal-pairs-ii/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
