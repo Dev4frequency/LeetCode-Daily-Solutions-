@@ -295,6 +295,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3028-ant-on-the-boundary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3035-maximum-palindromes-after-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -906,6 +907,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2848-points-that-intersect-with-cars](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [2949-count-beautiful-substrings-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2949-count-beautiful-substrings-ii/) | Hard |
+| [3028-ant-on-the-boundary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -1738,6 +1740,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2899-last-visited-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2899-last-visited-integers/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2974-minimum-number-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2974-minimum-number-game/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
