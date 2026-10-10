@@ -286,6 +286,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2932-maximum-strong-pair-xor-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2951-find-the-peaks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2951-find-the-peaks/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
@@ -811,6 +812,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2932-maximum-strong-pair-xor-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [2949-count-beautiful-substrings-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2949-count-beautiful-substrings-ii/) | Hard |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
