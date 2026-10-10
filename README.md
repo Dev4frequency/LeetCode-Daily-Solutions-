@@ -298,6 +298,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3028-ant-on-the-boundary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3033-modify-the-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3033-modify-the-matrix/) | Easy |
 | [3035-maximum-palindromes-after-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3046-split-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3046-split-the-array/) | Easy |
@@ -1743,6 +1744,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2960-count-tested-devices-after-test-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2974-minimum-number-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
