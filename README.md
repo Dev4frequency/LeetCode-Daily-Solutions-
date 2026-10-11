@@ -315,6 +315,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3128-right-triangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3128-right-triangles/) | Medium |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3161-block-placement-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3161-block-placement-queries/) | Hard |
@@ -1444,6 +1445,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3033-modify-the-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3033-modify-the-matrix/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3127-make-a-square-with-the-same-color](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
 | [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii/) | Medium |
