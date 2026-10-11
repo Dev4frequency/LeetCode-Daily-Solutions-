@@ -335,6 +335,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3386-button-with-longest-push-time](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3386-button-with-longest-push-time/) | Easy |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
