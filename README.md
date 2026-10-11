@@ -320,6 +320,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3206-alternating-groups-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3206-alternating-groups-i/) | Easy |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -1830,6 +1831,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
+| [3206-alternating-groups-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3206-alternating-groups-i/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
