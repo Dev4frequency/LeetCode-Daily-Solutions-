@@ -266,6 +266,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -1853,6 +1854,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2427-number-of-common-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2427-number-of-common-factors/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [2951-find-the-peaks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2951-find-the-peaks/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
