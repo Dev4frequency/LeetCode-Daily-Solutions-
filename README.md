@@ -317,6 +317,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3161-block-placement-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3161-block-placement-queries/) | Hard |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -853,6 +854,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3137-minimum-number-of-operations-to-make-word-k-periodic/) | Medium |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
 | [3238-find-the-number-of-winning-players](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3238-find-the-number-of-winning-players/) | Easy |
