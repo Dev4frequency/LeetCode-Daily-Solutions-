@@ -316,6 +316,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3131-find-the-integer-added-to-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3132-find-the-integer-added-to-array-ii/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3161-block-placement-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3161-block-placement-queries/) | Hard |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
@@ -854,6 +855,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3137-minimum-number-of-operations-to-make-word-k-periodic/) | Medium |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3144-minimum-substring-partition-of-equal-character-frequency/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
@@ -1809,6 +1811,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3444-minimum-increments-for-target-multiples-in-an-array/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
