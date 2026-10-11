@@ -333,6 +333,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3316-find-maximum-removals-from-source-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3386-button-with-longest-push-time](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3386-button-with-longest-push-time/) | Easy |
@@ -924,6 +925,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3028-ant-on-the-boundary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -1822,6 +1824,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2982-find-longest-special-substring-that-occurs-thrice-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
