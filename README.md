@@ -277,6 +277,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2862-maximum-element-sum-of-a-complete-subset-of-indices/) | Hard |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2899-last-visited-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2899-last-visited-integers/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2905-find-indices-with-index-and-value-difference-ii/) | Medium |
@@ -485,6 +486,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2697-lexicographically-smallest-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
@@ -833,6 +835,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2848-points-that-intersect-with-cars](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2947-count-beautiful-substrings-i/) | Medium |
@@ -1808,6 +1811,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2917-find-the-k-or-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
