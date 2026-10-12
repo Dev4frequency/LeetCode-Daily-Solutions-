@@ -356,6 +356,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3524-find-x-value-of-array-i/) | Medium |
