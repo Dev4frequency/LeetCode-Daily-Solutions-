@@ -385,6 +385,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3664-two-letter-card-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3664-two-letter-card-game/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3668-restore-finishing-order/) | Easy |
 | [3671-sum-of-beautiful-subsequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3671-sum-of-beautiful-subsequences/) | Hard |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3685-subsequence-sum-after-capping-elements/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -1827,6 +1828,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
@@ -2225,6 +2227,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
