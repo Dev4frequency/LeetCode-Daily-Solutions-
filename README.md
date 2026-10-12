@@ -383,6 +383,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3660-jump-game-ix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3660-jump-game-ix/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3664-two-letter-card-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3664-two-letter-card-game/) | Medium |
+| [3668-restore-finishing-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3668-restore-finishing-order/) | Easy |
 | [3671-sum-of-beautiful-subsequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3671-sum-of-beautiful-subsequences/) | Hard |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3685-subsequence-sum-after-capping-elements/) | Medium |
@@ -886,6 +887,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3664-two-letter-card-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3664-two-letter-card-game/) | Medium |
+| [3668-restore-finishing-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3668-restore-finishing-order/) | Easy |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 | [3692-majority-frequency-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
