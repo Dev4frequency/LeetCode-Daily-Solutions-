@@ -430,6 +430,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3901-good-subsequence-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3901-good-subsequence-queries/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3917-count-indices-with-opposite-parity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3926-count-valid-word-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3926-count-valid-word-occurrences/) | Medium |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
