@@ -438,6 +438,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 | [3960-frequency-balance-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3960-frequency-balance-subarray/) | Medium |
 | [3978-unique-middle-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3978-unique-middle-element/) | Easy |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [3984-divisible-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3984-divisible-game/) | Medium |
 | [3996-even-number-of-knight-moves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3996-even-number-of-knight-moves/) | Easy |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3998-transform-binary-string-using-subsequence-sort/) | Medium |
@@ -1245,6 +1246,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [3984-divisible-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3984-divisible-game/) | Medium |
 | [3996-even-number-of-knight-moves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3996-even-number-of-knight-moves/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
