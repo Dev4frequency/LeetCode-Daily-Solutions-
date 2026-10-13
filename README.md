@@ -426,6 +426,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3901-good-subsequence-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3901-good-subsequence-queries/) | Hard |
@@ -1954,6 +1955,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3745-maximize-expression-of-three-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3765-complete-prime-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3765-complete-prime-number/) | Medium |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 | [3984-divisible-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3984-divisible-game/) | Medium |
