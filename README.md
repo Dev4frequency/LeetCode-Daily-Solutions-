@@ -439,6 +439,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3960-frequency-balance-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3960-frequency-balance-subarray/) | Medium |
 | [3978-unique-middle-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3978-unique-middle-element/) | Easy |
 | [3984-divisible-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3984-divisible-game/) | Medium |
+| [3996-even-number-of-knight-moves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3996-even-number-of-knight-moves/) | Easy |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3998-transform-binary-string-using-subsequence-sort/) | Medium |
 | [4001-aggregate-two-time-series](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4001-aggregate-two-time-series/) | Medium |
 | [4007-widest-possible-fence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4007-widest-possible-fence/) | Hard |
@@ -1245,6 +1246,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 | [3984-divisible-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3984-divisible-game/) | Medium |
+| [3996-even-number-of-knight-moves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3996-even-number-of-knight-moves/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
