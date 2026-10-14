@@ -461,6 +461,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -952,6 +953,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3999-minimum-number-of-string-groups-through-transformations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3999-minimum-number-of-string-groups-through-transformations/) | Hard |
 | [4007-widest-possible-fence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4007-widest-possible-fence/) | Hard |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1107,6 +1109,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [4006-count-valid-prefixes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4006-count-valid-prefixes/) | Easy |
 | [4007-widest-possible-fence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4007-widest-possible-fence/) | Hard |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1447,6 +1450,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3913-sort-vowels-by-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1853,6 +1857,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3921-score-validator](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2021,6 +2026,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3620-network-recovery-pathways](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3645-maximum-total-from-optimal-activation-order/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2254,6 +2260,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2363-merge-similar-items](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2363-merge-similar-items/) | Easy |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
