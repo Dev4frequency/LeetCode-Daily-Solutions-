@@ -23,6 +23,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0414-third-maximum-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0414-third-maximum-number/) | Easy |
 | [0419-battleships-in-a-board](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0447-number-of-boomerangs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0454-4sum-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0454-4sum-ii/) | Medium |
@@ -760,6 +761,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0391-perfect-rectangle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0391-perfect-rectangle/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0447-number-of-boomerangs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0454-4sum-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0454-4sum-ii/) | Medium |
 | [0457-circular-array-loop](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0457-circular-array-loop/) | Medium |
@@ -1343,6 +1345,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0332-reconstruct-itinerary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0406-queue-reconstruction-by-height](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0414-third-maximum-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0475-heaters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0475-heaters/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
