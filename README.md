@@ -461,6 +461,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -1276,6 +1277,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3984-divisible-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3984-divisible-game/) | Medium |
 | [3996-even-number-of-knight-moves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3996-even-number-of-knight-moves/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
