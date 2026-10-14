@@ -23,6 +23,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0414-third-maximum-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0414-third-maximum-number/) | Easy |
 | [0419-battleships-in-a-board](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0454-4sum-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0454-4sum-ii/) | Medium |
 | [0456-132-pattern](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0456-132-pattern/) | Medium |
 | [0457-circular-array-loop](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0457-circular-array-loop/) | Medium |
@@ -1111,6 +1112,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0384-shuffle-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0384-shuffle-an-array/) | Medium |
 | [0391-perfect-rectangle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0391-perfect-rectangle/) | Hard |
 | [0396-rotate-function](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0396-rotate-function/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0486-predict-the-winner/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0598-range-addition-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0598-range-addition-ii/) | Easy |
