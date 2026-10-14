@@ -460,9 +460,9 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [4007-widest-possible-fence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4007-widest-possible-fence/) | Hard |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
+| [4020-elevator-requests-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4020-elevator-requests-i/) | Easy |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
-| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
-| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Greedy
@@ -956,7 +956,6 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3999-minimum-number-of-string-groups-through-transformations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3999-minimum-number-of-string-groups-through-transformations/) | Hard |
 | [4007-widest-possible-fence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4007-widest-possible-fence/) | Hard |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4038-count-integers-appearing-in-a-single-block/) | Easy |
-| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -1336,7 +1335,6 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3814-maximum-capacity-within-budget](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
-| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1456,7 +1454,6 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3913-sort-vowels-by-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
-| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -1527,6 +1524,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3725-count-ways-to-choose-coprime-integers-from-rows/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1864,6 +1862,8 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3921-score-validator](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [4020-elevator-requests-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4020-elevator-requests-i/) | Easy |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -1995,7 +1995,6 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3984-divisible-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3984-divisible-game/) | Medium |
 | [4007-widest-possible-fence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4007-widest-possible-fence/) | Hard |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
-| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
