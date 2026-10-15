@@ -37,6 +37,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0500-keyboard-row](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0500-keyboard-row/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0529-minesweeper](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0529-minesweeper/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0575-distribute-candies/) | Easy |
@@ -962,6 +963,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0528-random-pick-with-weight](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0528-random-pick-with-weight/) | Medium |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -1127,6 +1129,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0447-number-of-boomerangs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0486-predict-the-winner/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0598-range-addition-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -1290,6 +1293,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0456-132-pattern](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0456-132-pattern/) | Medium |
 | [0475-heaters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0475-heaters/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1201-ugly-number-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1201-ugly-number-iii/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
@@ -2378,6 +2382,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0384-shuffle-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0384-shuffle-an-array/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0528-random-pick-with-weight/) | Medium |
 ## Eulerian Circuit
 | Problem Name | Difficulty |
 | ------- | ------- |
