@@ -35,6 +35,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0495-teemo-attacking](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0500-keyboard-row/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0518-coin-change-ii/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
@@ -2056,6 +2057,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0020-valid-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0020-valid-parentheses/) | Easy |
 | [0456-132-pattern](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0844-backspace-string-compare/) | Easy |
@@ -2133,6 +2135,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 ## Recursion
