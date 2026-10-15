@@ -440,6 +440,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3850-count-sequences-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3850-count-sequences-to-k/) | Hard |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
+| [3861-minimum-capacity-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3866-first-unique-even-element/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
