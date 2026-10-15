@@ -31,6 +31,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0457-circular-array-loop](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0457-circular-array-loop/) | Medium |
 | [0463-island-perimeter](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0463-island-perimeter/) | Easy |
 | [0475-heaters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0475-heaters/) | Medium |
+| [0477-total-hamming-distance](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0486-predict-the-winner/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0495-teemo-attacking](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0495-teemo-attacking/) | Easy |
@@ -1138,6 +1139,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0396-rotate-function](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0396-rotate-function/) | Medium |
 | [0447-number-of-boomerangs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0477-total-hamming-distance](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0486-predict-the-winner/) | Medium |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0497-random-point-in-non-overlapping-rectangles/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0528-random-pick-with-weight/) | Medium |
@@ -1892,6 +1894,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0393-utf-8-validation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0393-utf-8-validation/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0477-total-hamming-distance](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0477-total-hamming-distance/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0832-flipping-an-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0832-flipping-an-image/) | Easy |
