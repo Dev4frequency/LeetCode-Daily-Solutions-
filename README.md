@@ -30,6 +30,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0456-132-pattern](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0456-132-pattern/) | Medium |
 | [0457-circular-array-loop](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0457-circular-array-loop/) | Medium |
 | [0463-island-perimeter](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0463-island-perimeter/) | Easy |
+| [0473-matchsticks-to-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0475-heaters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0475-heaters/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0486-predict-the-winner/) | Medium |
@@ -1557,6 +1558,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0403-frog-jump](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0403-frog-jump/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0413-arithmetic-slices/) | Medium |
 | [0466-count-the-repetitions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0466-count-the-repetitions/) | Hard |
+| [0473-matchsticks-to-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0486-predict-the-winner](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -1894,6 +1896,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0393-utf-8-validation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0393-utf-8-validation/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0473-matchsticks-to-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0477-total-hamming-distance/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -2229,6 +2232,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0022-generate-parentheses/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0473-matchsticks-to-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -2239,6 +2243,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0473-matchsticks-to-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
