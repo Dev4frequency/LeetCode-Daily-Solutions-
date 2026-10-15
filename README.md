@@ -37,6 +37,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0500-keyboard-row](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0500-keyboard-row/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
+| [0525-contiguous-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0525-contiguous-array/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0529-minesweeper](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0529-minesweeper/) | Medium |
@@ -776,6 +777,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0496-next-greater-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0500-keyboard-row/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0525-contiguous-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0525-contiguous-array/) | Medium |
 | [0575-distribute-candies](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -964,6 +966,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0525-contiguous-array/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0528-random-pick-with-weight/) | Medium |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
