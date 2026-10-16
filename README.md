@@ -51,6 +51,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0540-single-element-in-a-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0542-01-matrix/) | Medium |
 | [0553-optimal-division](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0553-optimal-division/) | Medium |
+| [0554-brick-wall](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0554-brick-wall/) | Medium |
 | [0565-array-nesting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0565-array-nesting/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0575-distribute-candies/) | Easy |
@@ -800,6 +801,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0500-keyboard-row](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0500-keyboard-row/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0525-contiguous-array/) | Medium |
+| [0554-brick-wall](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0554-brick-wall/) | Medium |
 | [0575-distribute-candies](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0609-find-duplicate-file-in-system](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0609-find-duplicate-file-in-system/) | Medium |
