@@ -53,6 +53,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0598-range-addition-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0598-range-addition-ii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0638-shopping-offers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0638-shopping-offers/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0661-image-smoother](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0661-image-smoother/) | Easy |
 | [0665-non-decreasing-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0665-non-decreasing-array/) | Medium |
@@ -1571,6 +1572,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0486-predict-the-winner](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0638-shopping-offers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0638-shopping-offers/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0788-rotated-digits/) | Medium |
@@ -1910,6 +1912,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0477-total-hamming-distance](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0477-total-hamming-distance/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0638-shopping-offers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0638-shopping-offers/) | Medium |
 | [0832-flipping-an-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0832-flipping-an-image/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
@@ -2254,6 +2257,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0473-matchsticks-to-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0638-shopping-offers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0638-shopping-offers/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
@@ -2264,6 +2268,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0473-matchsticks-to-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0638-shopping-offers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0638-shopping-offers/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
@@ -2337,6 +2342,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0638-shopping-offers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0638-shopping-offers/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3850-count-sequences-to-k/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -2467,10 +2473,12 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0518-coin-change-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0518-coin-change-ii/) | Medium |
+| [0638-shopping-offers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0638-shopping-offers/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0518-coin-change-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0518-coin-change-ii/) | Medium |
+| [0638-shopping-offers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0638-shopping-offers/) | Medium |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
