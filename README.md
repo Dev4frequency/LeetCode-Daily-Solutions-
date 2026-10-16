@@ -48,6 +48,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0526-beautiful-arrangement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0529-minesweeper](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0529-minesweeper/) | Medium |
+| [0542-01-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0542-01-matrix/) | Medium |
 | [0565-array-nesting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0565-array-nesting/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0575-distribute-candies/) | Easy |
@@ -1498,6 +1499,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0301-remove-invalid-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0463-island-perimeter](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0463-island-perimeter/) | Easy |
 | [0529-minesweeper](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0529-minesweeper/) | Medium |
+| [0542-01-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0542-01-matrix/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0733-flood-fill/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -1520,6 +1522,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0419-battleships-in-a-board](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0463-island-perimeter/) | Easy |
 | [0529-minesweeper](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0529-minesweeper/) | Medium |
+| [0542-01-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0542-01-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0661-image-smoother](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0661-image-smoother/) | Easy |
 | [0733-flood-fill](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0733-flood-fill/) | Easy |
@@ -1578,6 +1581,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0486-predict-the-winner](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0542-01-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0542-01-matrix/) | Medium |
 | [0638-shopping-offers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0638-shopping-offers/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0678-valid-parenthesis-string/) | Medium |
