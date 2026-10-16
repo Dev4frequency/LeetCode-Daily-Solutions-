@@ -53,6 +53,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0598-range-addition-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0598-range-addition-ii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0661-image-smoother](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0661-image-smoother/) | Easy |
 | [0665-non-decreasing-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0665-non-decreasing-array/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -2042,6 +2043,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1766-tree-of-coprimes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1766-tree-of-coprimes/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -2054,6 +2056,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Heap (Priority Queue)
@@ -2084,6 +2087,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0456-132-pattern](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0844-backspace-string-compare/) | Easy |
@@ -2106,6 +2110,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3855-sum-of-k-digit-numbers-in-a-range/) | Hard |
@@ -2162,6 +2167,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0456-132-pattern](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 ## Recursion
@@ -2389,6 +2395,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Cartesian Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
