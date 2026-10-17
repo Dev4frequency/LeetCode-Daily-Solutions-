@@ -68,6 +68,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0697-degree-of-an-array/) | Easy |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0722-remove-comments](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0722-remove-comments/) | Medium |
 | [0733-flood-fill](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0733-flood-fill/) | Easy |
@@ -1606,6 +1607,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0638-shopping-offers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0638-shopping-offers/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0740-delete-and-earn](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0740-delete-and-earn/) | Medium |
 | [0788-rotated-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0788-rotated-digits/) | Medium |
@@ -1947,6 +1949,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0491-non-decreasing-subsequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0638-shopping-offers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0638-shopping-offers/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0832-flipping-an-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0832-flipping-an-image/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
@@ -2295,6 +2298,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0491-non-decreasing-subsequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0638-shopping-offers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0638-shopping-offers/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
@@ -2306,6 +2310,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0473-matchsticks-to-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0638-shopping-offers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0638-shopping-offers/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
@@ -2381,6 +2386,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0638-shopping-offers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0638-shopping-offers/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3850-count-sequences-to-k/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
