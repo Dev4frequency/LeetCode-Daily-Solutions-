@@ -75,6 +75,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0832-flipping-an-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0835-image-overlap/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [0851-loud-and-rich](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0851-loud-and-rich/) | Medium |
 | [0867-transpose-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
@@ -584,6 +585,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0565-array-nesting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0565-array-nesting/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0733-flood-fill/) | Easy |
+| [0851-loud-and-rich](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0851-loud-and-rich/) | Medium |
 | [1306-jump-game-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
@@ -2145,6 +2147,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0851-loud-and-rich](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0851-loud-and-rich/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -2165,6 +2168,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0851-loud-and-rich](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0851-loud-and-rich/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -2507,4 +2511,8 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0851-loud-and-rich](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0851-loud-and-rich/) | Medium |
 <!---LeetCode Topics End-->
