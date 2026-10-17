@@ -68,6 +68,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0697-degree-of-an-array/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0722-remove-comments](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0722-remove-comments/) | Medium |
 | [0733-flood-fill](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0733-flood-fill/) | Easy |
 | [0740-delete-and-earn](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0740-delete-and-earn/) | Medium |
@@ -1343,6 +1344,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0528-random-pick-with-weight](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1201-ugly-number-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1201-ugly-number-iii/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -1604,6 +1606,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0638-shopping-offers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0638-shopping-offers/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0740-delete-and-earn](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0740-delete-and-earn/) | Medium |
 | [0788-rotated-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0788-rotated-digits/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -1981,6 +1984,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0413-arithmetic-slices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0413-arithmetic-slices/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -2408,12 +2412,14 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1960-maximum-product-of-the-length-of-two-palindromic-substrings/) | Hard |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1960-maximum-product-of-the-length-of-two-palindromic-substrings/) | Hard |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
