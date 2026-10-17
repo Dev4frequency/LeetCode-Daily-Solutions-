@@ -70,6 +70,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0697-degree-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0733-flood-fill](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0733-flood-fill/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0748-shortest-completing-word/) | Easy |
+| [0752-open-the-lock](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0752-open-the-lock/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0789-escape-the-ghosts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
@@ -639,6 +640,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0678-valid-parenthesis-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0748-shortest-completing-word/) | Easy |
+| [0752-open-the-lock](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0752-open-the-lock/) | Medium |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0796-rotate-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0844-backspace-string-compare/) | Easy |
@@ -811,6 +813,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0748-shortest-completing-word/) | Easy |
+| [0752-open-the-lock](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0752-open-the-lock/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0929-unique-email-addresses/) | Easy |
@@ -1512,6 +1515,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0542-01-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0542-01-matrix/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0733-flood-fill/) | Easy |
+| [0752-open-the-lock](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0752-open-the-lock/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1345-jump-game-iv/) | Hard |
@@ -2517,4 +2521,8 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0851-loud-and-rich](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0851-loud-and-rich/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->
