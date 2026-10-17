@@ -71,6 +71,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0733-flood-fill](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0733-flood-fill/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0789-escape-the-ghosts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0832-flipping-an-image](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0835-image-overlap/) | Medium |
@@ -1172,6 +1173,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0628-maximum-product-of-three-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0788-rotated-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0788-rotated-digits/) | Medium |
+| [0789-escape-the-ghosts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0858-mirror-reflection/) | Medium |
 | [0866-prime-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0866-prime-palindrome/) | Medium |
