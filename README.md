@@ -90,6 +90,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0905-sort-array-by-parity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0915-partition-array-into-disjoint-intervals/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0929-unique-email-addresses/) | Easy |
