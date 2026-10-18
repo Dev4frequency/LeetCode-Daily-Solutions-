@@ -93,6 +93,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0922-sort-array-by-parity-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0929-unique-email-addresses/) | Easy |
+| [0937-reorder-data-in-log-files](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0941-valid-mountain-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0941-valid-mountain-array/) | Easy |
 | [0942-di-string-match](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0942-di-string-match/) | Easy |
@@ -664,6 +665,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0925-long-pressed-name](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0925-long-pressed-name/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0929-unique-email-addresses/) | Easy |
+| [0937-reorder-data-in-log-files](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0942-di-string-match](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0942-di-string-match/) | Easy |
 | [0949-largest-time-for-given-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0949-largest-time-for-given-digits/) | Medium |
@@ -1437,6 +1439,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0905-sort-array-by-parity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [0937-reorder-data-in-log-files](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0969-pancake-sorting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0969-pancake-sorting/) | Medium |
 | [1054-distant-barcodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1054-distant-barcodes/) | Medium |
