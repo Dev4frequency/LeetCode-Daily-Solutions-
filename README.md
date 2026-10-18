@@ -93,6 +93,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0922-sort-array-by-parity-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0929-unique-email-addresses/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0932-beautiful-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0932-beautiful-array/) | Medium |
 | [0934-shortest-bridge](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0934-shortest-bridge/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0937-reorder-data-in-log-files/) | Medium |
@@ -1582,6 +1583,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0835-image-overlap](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0867-transpose-matrix/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0934-shortest-bridge](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0934-shortest-bridge/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
@@ -1644,6 +1646,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0788-rotated-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0788-rotated-digits/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0877-stone-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0877-stone-game/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
