@@ -90,6 +90,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0905-sort-array-by-parity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0908-smallest-range-i/) | Easy |
 | [0910-smallest-range-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0910-smallest-range-ii/) | Medium |
+| [0911-online-election](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0911-online-election/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0915-partition-array-into-disjoint-intervals/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -840,6 +841,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0740-delete-and-earn](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0740-delete-and-earn/) | Medium |
 | [0748-shortest-completing-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0752-open-the-lock](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0752-open-the-lock/) | Medium |
+| [0911-online-election](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0911-online-election/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0929-unique-email-addresses/) | Easy |
@@ -1375,6 +1377,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0633-sum-of-square-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0911-online-election](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0911-online-election/) | Medium |
 | [1201-ugly-number-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1201-ugly-number-iii/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -2518,6 +2521,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0384-shuffle-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0384-shuffle-an-array/) | Medium |
 | [0622-design-circular-queue](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0622-design-circular-queue/) | Medium |
+| [0911-online-election](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0911-online-election/) | Medium |
 | [1603-design-parking-system](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1603-design-parking-system/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
