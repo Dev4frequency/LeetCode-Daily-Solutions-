@@ -88,6 +88,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0877-stone-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0907-sum-of-subarray-minimums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0908-smallest-range-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0908-smallest-range-i/) | Easy |
 | [0910-smallest-range-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0910-smallest-range-ii/) | Medium |
 | [0911-online-election](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0911-online-election/) | Medium |
@@ -1654,6 +1655,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0788-rotated-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0788-rotated-digits/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0877-stone-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0877-stone-game/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
@@ -2182,6 +2184,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0682-baseball-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0856-score-of-parentheses/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -2264,6 +2267,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0496-next-greater-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 ## Recursion
