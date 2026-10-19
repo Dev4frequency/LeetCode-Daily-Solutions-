@@ -113,6 +113,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0992-subarrays-with-k-different-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
+| [1020-number-of-enclaves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1023-camelcase-matching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1023-camelcase-matching/) | Medium |
 | [1024-video-stitching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1024-video-stitching/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
@@ -613,6 +614,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0733-flood-fill](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0733-flood-fill/) | Easy |
 | [0851-loud-and-rich](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0851-loud-and-rich/) | Medium |
 | [0934-shortest-bridge](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0934-shortest-bridge/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
@@ -632,6 +634,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0695-max-area-of-island/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [1020-number-of-enclaves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -1567,6 +1570,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0733-flood-fill](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0733-flood-fill/) | Easy |
 | [0752-open-the-lock](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0752-open-the-lock/) | Medium |
 | [0934-shortest-bridge](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0934-shortest-bridge/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1345-jump-game-iv/) | Hard |
@@ -1599,6 +1603,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0883-projection-area-of-3d-shapes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0934-shortest-bridge](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0934-shortest-bridge/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
