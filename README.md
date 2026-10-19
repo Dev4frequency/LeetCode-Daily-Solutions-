@@ -109,6 +109,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0952-largest-component-size-by-common-factor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0953-verifying-an-alien-dictionary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0957-prison-cells-after-n-days](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0957-prison-cells-after-n-days/) | Medium |
+| [0963-minimum-area-rectangle-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0969-pancake-sorting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0969-pancake-sorting/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0978-longest-turbulent-subarray/) | Medium |
@@ -865,6 +866,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0952-largest-component-size-by-common-factor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0953-verifying-an-alien-dictionary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0957-prison-cells-after-n-days](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0957-prison-cells-after-n-days/) | Medium |
+| [0963-minimum-area-rectangle-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
@@ -1237,6 +1239,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0939-minimum-area-rectangle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0957-prison-cells-after-n-days](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0957-prison-cells-after-n-days/) | Medium |
+| [0963-minimum-area-rectangle-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1037-valid-boomerang](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1037-valid-boomerang/) | Easy |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
@@ -1452,6 +1455,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0858-mirror-reflection](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0858-mirror-reflection/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0939-minimum-area-rectangle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0939-minimum-area-rectangle/) | Medium |
+| [0963-minimum-area-rectangle-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1037-valid-boomerang](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1037-valid-boomerang/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
