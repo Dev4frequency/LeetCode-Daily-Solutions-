@@ -113,6 +113,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0992-subarrays-with-k-different-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1023-camelcase-matching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1023-camelcase-matching/) | Medium |
 | [1024-video-stitching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1024-video-stitching/) | Medium |
@@ -1737,6 +1738,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0061-rotate-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0061-rotate-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0622-design-circular-queue/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -2199,6 +2201,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0907-sum-of-subarray-minimums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -2280,6 +2283,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0503-next-greater-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 ## Recursion
