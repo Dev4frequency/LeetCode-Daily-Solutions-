@@ -110,6 +110,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0953-verifying-an-alien-dictionary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0957-prison-cells-after-n-days](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0969-pancake-sorting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0969-pancake-sorting/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
@@ -637,6 +638,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0695-max-area-of-island/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [0990-satisfiability-of-equality-equations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -688,6 +690,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0942-di-string-match](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0942-di-string-match/) | Easy |
 | [0949-largest-time-for-given-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0990-satisfiability-of-equality-equations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1023-camelcase-matching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1023-camelcase-matching/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -2242,6 +2245,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0851-loud-and-rich](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0851-loud-and-rich/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
