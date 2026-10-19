@@ -114,6 +114,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1023-camelcase-matching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1023-camelcase-matching/) | Medium |
+| [1024-video-stitching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1024-video-stitching/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1037-valid-boomerang](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1037-valid-boomerang/) | Easy |
 | [1046-last-stone-weight](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1046-last-stone-weight/) | Easy |
@@ -523,6 +524,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0942-di-string-match](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0942-di-string-match/) | Easy |
 | [0969-pancake-sorting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0969-pancake-sorting/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
+| [1024-video-stitching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1024-video-stitching/) | Medium |
 | [1054-distant-barcodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1054-distant-barcodes/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1090-largest-values-from-labels/) | Medium |
@@ -1661,6 +1663,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0907-sum-of-subarray-minimums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1024-video-stitching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1024-video-stitching/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
