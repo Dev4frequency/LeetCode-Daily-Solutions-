@@ -131,6 +131,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1054-distant-barcodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1054-distant-barcodes/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1089-duplicate-zeros/) | Easy |
 | [1090-largest-values-from-labels](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1090-largest-values-from-labels/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1094-car-pooling/) | Medium |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1184-distance-between-bus-stops](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1184-distance-between-bus-stops/) | Easy |
@@ -1598,6 +1599,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0752-open-the-lock](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0752-open-the-lock/) | Medium |
 | [0934-shortest-bridge](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0934-shortest-bridge/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1345-jump-game-iv/) | Hard |
@@ -1631,6 +1633,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0931-minimum-falling-path-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0934-shortest-bridge](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0934-shortest-bridge/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
