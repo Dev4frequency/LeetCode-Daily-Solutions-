@@ -493,6 +493,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3875-construct-uniform-parity-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3901-good-subsequence-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3901-good-subsequence-queries/) | Hard |
@@ -1376,6 +1377,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3871-count-commas-in-range-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3901-good-subsequence-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3901-good-subsequence-queries/) | Hard |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
@@ -1573,6 +1575,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3814-maximum-capacity-within-budget](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
@@ -2161,6 +2164,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3765-complete-prime-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3765-complete-prime-number/) | Medium |
 | [3833-count-dominant-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3833-count-dominant-indices/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 | [3984-divisible-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3984-divisible-game/) | Medium |
