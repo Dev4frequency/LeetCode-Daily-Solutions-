@@ -133,6 +133,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1090-largest-values-from-labels](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1094-car-pooling/) | Medium |
+| [1131-maximum-of-absolute-value-expression](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1131-maximum-of-absolute-value-expression/) | Medium |
 | [1139-largest-1-bordered-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1139-largest-1-bordered-square/) | Medium |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1144-decrease-elements-to-make-array-zigzag/) | Medium |
@@ -1266,6 +1267,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0963-minimum-area-rectangle-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1037-valid-boomerang](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1037-valid-boomerang/) | Easy |
+| [1131-maximum-of-absolute-value-expression](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1131-maximum-of-absolute-value-expression/) | Medium |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1201-ugly-number-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1201-ugly-number-iii/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
