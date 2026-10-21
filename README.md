@@ -133,6 +133,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1090-largest-values-from-labels](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1094-car-pooling/) | Medium |
+| [1139-largest-1-bordered-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1139-largest-1-bordered-square/) | Medium |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1144-decrease-elements-to-make-array-zigzag/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -1654,6 +1655,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0934-shortest-bridge](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0934-shortest-bridge/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1139-largest-1-bordered-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1139-largest-1-bordered-square/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
@@ -1722,6 +1724,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0978-longest-turbulent-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1024-video-stitching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1024-video-stitching/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1139-largest-1-bordered-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1139-largest-1-bordered-square/) | Medium |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
