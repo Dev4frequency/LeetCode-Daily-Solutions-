@@ -135,6 +135,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1094-car-pooling](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1094-car-pooling/) | Medium |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1184-distance-between-bus-stops](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1184-distance-between-bus-stops/) | Easy |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -1704,6 +1705,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1024-video-stitching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1024-video-stitching/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1340-jump-game-v/) | Hard |
