@@ -133,6 +133,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1090-largest-values-from-labels](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1094-car-pooling/) | Medium |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1131-maximum-of-absolute-value-expression](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1131-maximum-of-absolute-value-expression/) | Medium |
 | [1139-largest-1-bordered-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1139-largest-1-bordered-square/) | Medium |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
@@ -551,6 +552,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1054-distant-barcodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1054-distant-barcodes/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1090-largest-values-from-labels/) | Medium |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1144-decrease-elements-to-make-array-zigzag/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -1726,6 +1728,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0978-longest-turbulent-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1024-video-stitching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1024-video-stitching/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1139-largest-1-bordered-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1139-largest-1-bordered-square/) | Medium |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -2274,6 +2277,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -2357,6 +2361,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -2599,6 +2604,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0654-maximum-binary-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0654-maximum-binary-tree/) | Medium |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
