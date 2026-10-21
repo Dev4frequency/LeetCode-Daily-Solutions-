@@ -133,6 +133,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1090-largest-values-from-labels](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1094-car-pooling/) | Medium |
+| [1109-corporate-flight-bookings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1131-maximum-of-absolute-value-expression](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1131-maximum-of-absolute-value-expression/) | Medium |
 | [1139-largest-1-bordered-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1139-largest-1-bordered-square/) | Medium |
@@ -1077,6 +1078,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0528-random-pick-with-weight](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1094-car-pooling](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1094-car-pooling/) | Medium |
+| [1109-corporate-flight-bookings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1177-can-make-palindrome-from-substring](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
