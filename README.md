@@ -134,6 +134,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1094-car-pooling/) | Medium |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1144-decrease-elements-to-make-array-zigzag/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1169-invalid-transactions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1169-invalid-transactions/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
@@ -548,6 +549,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1054-distant-barcodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1054-distant-barcodes/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1090-largest-values-from-labels/) | Medium |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1144-decrease-elements-to-make-array-zigzag/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1386-cinema-seat-allocation/) | Medium |
