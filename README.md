@@ -521,6 +521,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [3943-number-of-pairs-after-increment](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3943-number-of-pairs-after-increment/) | Hard |
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 | [3960-frequency-balance-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3960-frequency-balance-subarray/) | Medium |
