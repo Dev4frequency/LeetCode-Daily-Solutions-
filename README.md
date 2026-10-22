@@ -153,6 +153,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
@@ -1446,6 +1447,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1201-ugly-number-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1201-ugly-number-iii/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
