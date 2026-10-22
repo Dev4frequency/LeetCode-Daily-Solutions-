@@ -149,6 +149,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1191-k-concatenation-maximum-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -912,6 +913,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1177-can-make-palindrome-from-substring](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -1095,6 +1097,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1124-longest-well-performing-interval](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1140-stone-game-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1140-stone-game-ii/) | Medium |
 | [1177-can-make-palindrome-from-substring](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1314-matrix-block-sum/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -1291,6 +1294,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1201-ugly-number-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1201-ugly-number-iii/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -2140,6 +2144,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
