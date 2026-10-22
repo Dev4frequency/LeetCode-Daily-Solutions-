@@ -155,6 +155,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1306-jump-game-iii/) | Medium |
@@ -561,6 +562,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1144-decrease-elements-to-make-array-zigzag/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -907,6 +909,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1189-maximum-number-of-balloons](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1345-jump-game-iv/) | Hard |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -1529,6 +1532,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1169-invalid-transactions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1169-invalid-transactions/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1340-jump-game-v](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1340-jump-game-v/) | Hard |
