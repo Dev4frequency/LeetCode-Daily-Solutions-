@@ -148,6 +148,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1260-shift-2d-grid/) | Easy |
@@ -903,6 +904,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1177-can-make-palindrome-from-substring](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1345-jump-game-iv/) | Hard |
@@ -1740,6 +1742,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1162-as-far-from-land-as-possible](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1406-stone-game-iii/) | Hard |
