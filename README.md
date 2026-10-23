@@ -183,6 +183,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1424-diagonal-traverse-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1436-destination-city](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1436-destination-city/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -2161,6 +2162,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0992-subarrays-with-k-different-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -2288,6 +2290,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1094-car-pooling](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1094-car-pooling/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1424-diagonal-traverse-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1424-diagonal-traverse-ii/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
@@ -2566,6 +2569,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0456-132-pattern/) | Medium |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0497-random-point-in-non-overlapping-rectangles/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2363-merge-similar-items](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2363-merge-similar-items/) | Easy |
@@ -2575,11 +2579,13 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0622-design-circular-queue/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
