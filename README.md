@@ -181,6 +181,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1406-stone-game-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1406-stone-game-iii/) | Hard |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1424-diagonal-traverse-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1436-destination-city](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
@@ -1558,6 +1559,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1366-rank-teams-by-votes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
+| [1424-diagonal-traverse-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -2285,6 +2287,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1054-distant-barcodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1054-distant-barcodes/) | Medium |
 | [1094-car-pooling](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1094-car-pooling/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1424-diagonal-traverse-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
