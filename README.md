@@ -179,6 +179,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1406-stone-game-iii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1406-stone-game-iii/) | Hard |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1436-destination-city](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -2060,6 +2061,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1260-shift-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1603-design-parking-system](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1603-design-parking-system/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -2178,6 +2180,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -2750,4 +2753,8 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 <!---LeetCode Topics End-->
