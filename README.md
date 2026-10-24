@@ -196,6 +196,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1480-running-sum-of-1d-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1528-shuffle-string/) | Easy |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
@@ -2106,6 +2107,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1562-find-latest-group-of-size-m](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1562-find-latest-group-of-size-m/) | Medium |
@@ -2670,6 +2672,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Rolling Hash
