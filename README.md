@@ -198,6 +198,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1528-shuffle-string/) | Easy |
+| [1535-find-the-winner-of-an-array-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1539-kth-missing-positive-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
@@ -2105,6 +2106,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
+| [1535-find-the-winner-of-an-array-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1562-find-latest-group-of-size-m](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1562-find-latest-group-of-size-m/) | Medium |
 | [1603-design-parking-system](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1603-design-parking-system/) | Easy |
