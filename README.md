@@ -193,6 +193,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1472-design-browser-history](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1472-design-browser-history/) | Medium |
+| [1476-subrectangle-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1476-subrectangle-queries/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -1754,6 +1755,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1329-sort-the-matrix-diagonally](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1476-subrectangle-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1476-subrectangle-queries/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -2735,6 +2737,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0911-online-election](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0911-online-election/) | Medium |
 | [1357-apply-discount-every-n-orders](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1357-apply-discount-every-n-orders/) | Medium |
 | [1472-design-browser-history](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1472-design-browser-history/) | Medium |
+| [1476-subrectangle-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1476-subrectangle-queries/) | Medium |
 | [1603-design-parking-system](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1603-design-parking-system/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
