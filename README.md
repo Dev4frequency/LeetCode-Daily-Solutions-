@@ -191,6 +191,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1472-design-browser-history](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1472-design-browser-history/) | Medium |
 | [1476-subrectangle-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1476-subrectangle-queries/) | Medium |
@@ -595,6 +596,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1338-reduce-array-size-to-the-half](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1537-get-the-maximum-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -1607,6 +1609,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1424-diagonal-traverse-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
