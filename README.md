@@ -194,6 +194,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1487-making-file-names-unique](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1487-making-file-names-unique/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
@@ -775,6 +776,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1436-destination-city](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1436-destination-city/) | Easy |
 | [1447-simplified-fractions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1447-simplified-fractions/) | Medium |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | Medium |
+| [1487-making-file-names-unique](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1487-making-file-names-unique/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1528-shuffle-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1528-shuffle-string/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -963,6 +965,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1487-making-file-names-unique](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1487-making-file-names-unique/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
