@@ -200,6 +200,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1528-shuffle-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1528-shuffle-string/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1539-kth-missing-positive-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1558-minimum-numbers-of-function-calls-to-make-target-array/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
@@ -1495,6 +1496,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1562-find-latest-group-of-size-m](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1562-find-latest-group-of-size-m/) | Medium |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
@@ -1596,6 +1598,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1552-magnetic-force-between-two-balls](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
