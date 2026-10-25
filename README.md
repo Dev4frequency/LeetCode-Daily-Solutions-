@@ -222,9 +222,9 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [1626-best-team-with-no-conflicts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1629-slowest-key](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1629-slowest-key/) | Easy |
-| [1631-path-with-minimum-effort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1640-check-array-formation-through-concatenation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
@@ -693,7 +693,6 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
-| [1631-path-with-minimum-effort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1766-tree-of-coprimes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1766-tree-of-coprimes/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -717,7 +716,6 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1627-graph-connectivity-with-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
-| [1631-path-with-minimum-effort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1998-gcd-sort-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
@@ -1520,7 +1518,6 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1539-kth-missing-positive-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1562-find-latest-group-of-size-m](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1562-find-latest-group-of-size-m/) | Medium |
-| [1631-path-with-minimum-effort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
@@ -1625,6 +1622,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1552-magnetic-force-between-two-balls](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [1626-best-team-with-no-conflicts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
@@ -1727,7 +1725,6 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
-| [1631-path-with-minimum-effort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -1770,7 +1767,6 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1476-subrectangle-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1476-subrectangle-queries/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1572-matrix-diagonal-sum/) | Easy |
-| [1631-path-with-minimum-effort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1861-rotating-the-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -1848,6 +1844,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1626-best-team-with-no-conflicts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
@@ -2362,7 +2359,6 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1424-diagonal-traverse-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
-| [1631-path-with-minimum-effort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -2826,6 +2822,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [1626-best-team-with-no-conflicts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2850,8 +2847,4 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1472-design-browser-history/) | Medium |
-## Dijkstra's Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1631-path-with-minimum-effort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
