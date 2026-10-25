@@ -223,6 +223,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1583-count-unhappy-friends](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1583-count-unhappy-friends/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
@@ -613,6 +614,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1558-minimum-numbers-of-function-calls-to-make-target-array/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
@@ -1166,6 +1168,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1480-running-sum-of-1d-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -1634,6 +1637,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1626-best-team-with-no-conflicts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1626-best-team-with-no-conflicts/) | Medium |
