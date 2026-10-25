@@ -230,6 +230,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1656-design-an-ordered-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -605,6 +606,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1754-largest-merge-of-two-strings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
@@ -2391,6 +2393,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1472-design-browser-history](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1472-design-browser-history/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
@@ -2473,6 +2476,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
