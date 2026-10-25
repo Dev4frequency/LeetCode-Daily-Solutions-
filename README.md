@@ -234,6 +234,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1640-check-array-formation-through-concatenation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1656-design-an-ordered-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1664-ways-to-make-a-fair-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
@@ -995,6 +996,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1640-check-array-formation-through-concatenation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1656-design-an-ordered-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -1745,6 +1747,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
