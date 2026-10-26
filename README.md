@@ -249,6 +249,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
+| [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1744-can-you-eat-your-favorite-candy-on-your-favorite-day/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
@@ -1179,6 +1180,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
+| [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1744-can-you-eat-your-favorite-candy-on-your-favorite-day/) | Medium |
 | [1854-maximum-population-year](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1854-maximum-population-year/) | Easy |
 | [1862-sum-of-floored-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1862-sum-of-floored-pairs/) | Hard |
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
