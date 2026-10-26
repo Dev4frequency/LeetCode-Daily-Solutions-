@@ -243,6 +243,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
+| [1706-where-will-the-ball-fall](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1720-decode-xored-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1720-decode-xored-array/) | Easy |
@@ -1796,6 +1797,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1706-where-will-the-ball-fall](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [1861-rotating-the-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -2161,6 +2163,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1562-find-latest-group-of-size-m](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1562-find-latest-group-of-size-m/) | Medium |
 | [1583-count-unhappy-friends](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1583-count-unhappy-friends/) | Medium |
 | [1603-design-parking-system](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1603-design-parking-system/) | Easy |
+| [1706-where-will-the-ball-fall](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2105-watering-plants-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2105-watering-plants-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
