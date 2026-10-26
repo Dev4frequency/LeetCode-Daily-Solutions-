@@ -242,6 +242,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1672-richest-customer-wealth](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1696-jump-game-vi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1696-jump-game-vi/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1706-where-will-the-ball-fall](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1706-where-will-the-ball-fall/) | Medium |
@@ -1180,6 +1181,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1744-can-you-eat-your-favorite-candy-on-your-favorite-day/) | Medium |
@@ -1388,6 +1390,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1766-tree-of-coprimes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1766-tree-of-coprimes/) | Hard |
