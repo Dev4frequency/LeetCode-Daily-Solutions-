@@ -255,6 +255,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
 | [1766-tree-of-coprimes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1766-tree-of-coprimes/) | Hard |
 | [1773-count-items-matching-a-rule](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1774-closest-dessert-cost](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1774-closest-dessert-cost/) | Medium |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1775-equal-sum-arrays-with-minimum-number-of-operations/) | Medium |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/) | Easy |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
@@ -1873,6 +1874,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
+| [1774-closest-dessert-cost](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1774-closest-dessert-cost/) | Medium |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1787-make-the-xor-of-all-segments-equal-to-zero/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
@@ -2603,6 +2605,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0949-largest-time-for-given-digits](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
+| [1774-closest-dessert-cost](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1774-closest-dessert-cost/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3669-balanced-k-factor-decomposition](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3669-balanced-k-factor-decomposition/) | Medium |
@@ -2838,6 +2841,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0518-coin-change-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0518-coin-change-ii/) | Medium |
 | [0638-shopping-offers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0638-shopping-offers/) | Medium |
+| [1774-closest-dessert-cost](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1774-closest-dessert-cost/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2892,4 +2896,8 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Mixed Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1774-closest-dessert-cost](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1774-closest-dessert-cost/) | Medium |
 <!---LeetCode Topics End-->
