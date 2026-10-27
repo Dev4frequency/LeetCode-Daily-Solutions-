@@ -271,6 +271,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1816-truncate-sentence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1816-truncate-sentence/) | Easy |
+| [1818-minimum-absolute-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1824-minimum-sideway-jumps](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1824-minimum-sideway-jumps/) | Medium |
@@ -1563,6 +1564,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
+| [1818-minimum-absolute-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1862-sum-of-floored-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1862-sum-of-floored-pairs/) | Hard |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
@@ -1678,6 +1680,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1710-maximum-units-on-a-truck](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
+| [1818-minimum-absolute-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -2709,6 +2712,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0497-random-point-in-non-overlapping-rectangles/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1818-minimum-absolute-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2363-merge-similar-items](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2363-merge-similar-items/) | Easy |
