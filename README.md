@@ -267,6 +267,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1787-make-the-xor-of-all-segments-equal-to-zero/) | Hard |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1798-maximum-number-of-consecutive-values-you-can-make/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1801-number-of-orders-in-the-backlog](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1801-number-of-orders-in-the-backlog/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
@@ -641,6 +642,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1775-equal-sum-arrays-with-minimum-number-of-operations/) | Medium |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1798-maximum-number-of-consecutive-values-you-can-make/) | Medium |
 | [1824-minimum-sideway-jumps](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -1685,6 +1687,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1710-maximum-units-on-a-truck](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1798-maximum-number-of-consecutive-values-you-can-make/) | Medium |
 | [1818-minimum-absolute-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1834-single-threaded-cpu/) | Medium |
