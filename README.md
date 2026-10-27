@@ -273,6 +273,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1816-truncate-sentence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1816-truncate-sentence/) | Easy |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1824-minimum-sideway-jumps](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -636,6 +637,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1775-equal-sum-arrays-with-minimum-number-of-operations/) | Medium |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
+| [1824-minimum-sideway-jumps](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -1905,6 +1907,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1774-closest-dessert-cost](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1774-closest-dessert-cost/) | Medium |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1787-make-the-xor-of-all-segments-equal-to-zero/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
+| [1824-minimum-sideway-jumps](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1872-stone-game-viii/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
