@@ -268,6 +268,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1787-make-the-xor-of-all-segments-equal-to-zero/) | Hard |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
+| [1801-number-of-orders-in-the-backlog](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1801-number-of-orders-in-the-backlog/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
@@ -2198,6 +2199,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1583-count-unhappy-friends](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1583-count-unhappy-friends/) | Medium |
 | [1603-design-parking-system](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1603-design-parking-system/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1706-where-will-the-ball-fall/) | Medium |
+| [1801-number-of-orders-in-the-backlog](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1801-number-of-orders-in-the-backlog/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2105-watering-plants-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2105-watering-plants-ii/) | Medium |
@@ -2431,6 +2433,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1696-jump-game-vi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1696-jump-game-vi/) | Medium |
+| [1801-number-of-orders-in-the-backlog](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1801-number-of-orders-in-the-backlog/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
