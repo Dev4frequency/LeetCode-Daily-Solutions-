@@ -274,6 +274,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1819-number-of-different-subsequences-gcds](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -1408,6 +1409,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1814-count-nice-pairs-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [1840-maximum-building-height](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1840-maximum-building-height/) | Hard |
 | [1862-sum-of-floored-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1862-sum-of-floored-pairs/) | Hard |
@@ -1610,6 +1612,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0973-k-closest-points-to-origin](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1037-valid-boomerang](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1037-valid-boomerang/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Sorting
