@@ -291,6 +291,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1862-sum-of-floored-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1862-sum-of-floored-pairs/) | Hard |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1872-stone-game-viii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1872-stone-game-viii/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1898-maximum-number-of-removable-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
@@ -2438,6 +2439,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1696-jump-game-vi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1696-jump-game-vi/) | Medium |
 | [1801-number-of-orders-in-the-backlog](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1801-number-of-orders-in-the-backlog/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1834-single-threaded-cpu/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
