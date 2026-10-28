@@ -298,6 +298,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1943-describe-the-painting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1943-describe-the-painting/) | Medium |
 | [1946-largest-number-after-mutating-substring](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
@@ -1052,6 +1053,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [1943-describe-the-painting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1943-describe-the-painting/) | Medium |
 | [1982-find-array-given-subset-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1982-find-array-given-subset-sums/) | Hard |
 | [1995-count-special-quadruplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
@@ -1223,6 +1225,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1872-stone-game-viii/) | Hard |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
+| [1943-describe-the-painting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1943-describe-the-painting/) | Medium |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1959-minimum-total-space-wasted-with-k-resizing-operations/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
@@ -1710,6 +1713,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [1943-describe-the-painting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1943-describe-the-painting/) | Medium |
 | [1982-find-array-given-subset-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1982-find-array-given-subset-sums/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
