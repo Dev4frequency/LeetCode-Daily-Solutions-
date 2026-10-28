@@ -296,6 +296,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1898-maximum-number-of-removable-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
@@ -1947,6 +1948,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1824-minimum-sideway-jumps](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1872-stone-game-viii/) | Hard |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1959-minimum-total-space-wasted-with-k-resizing-operations/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
