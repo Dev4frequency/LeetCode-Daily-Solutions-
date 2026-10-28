@@ -570,6 +570,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3875-construct-uniform-parity-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -1863,6 +1864,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3725-count-ways-to-choose-coprime-integers-from-rows/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 ## Dynamic Programming
@@ -1958,6 +1960,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3844-longest-almost-palindromic-substring](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3844-longest-almost-palindromic-substring/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3850-count-sequences-to-k/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3984-divisible-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3984-divisible-game/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -2294,6 +2297,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
