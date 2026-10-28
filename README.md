@@ -295,6 +295,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1898-maximum-number-of-removable-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1906-minimum-absolute-difference-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1906-minimum-absolute-difference-queries/) | Medium |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
@@ -664,6 +665,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1927-sum-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1927-sum-game/) | Medium |
 | [1936-add-minimum-number-of-rungs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1936-add-minimum-number-of-rungs/) | Medium |
