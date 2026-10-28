@@ -298,6 +298,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [1958-check-if-move-is-legal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1958-check-if-move-is-legal/) | Medium |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1959-minimum-total-space-wasted-with-k-resizing-operations/) | Medium |
@@ -1934,6 +1935,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1824-minimum-sideway-jumps](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [1871-jump-game-vii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1872-stone-game-viii/) | Hard |
+| [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1959-minimum-total-space-wasted-with-k-resizing-operations/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -2280,6 +2282,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1787-make-the-xor-of-all-segments-equal-to-zero/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
+| [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [2032-two-out-of-three](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2032-two-out-of-three/) | Easy |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2351-first-letter-to-appear-twice](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -2675,6 +2678,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1774-closest-dessert-cost](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1774-closest-dessert-cost/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
+| [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3669-balanced-k-factor-decomposition](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3669-balanced-k-factor-decomposition/) | Medium |
 ## Bitmask
@@ -2687,6 +2691,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1655-distribute-repeating-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
+| [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3444-minimum-increments-for-target-multiples-in-an-array/) | Hard |
@@ -2971,4 +2976,32 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1774-closest-dessert-cost](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1774-closest-dessert-cost/) | Medium |
+## Hungarian Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+## Successive Shortest Path Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+## Matching (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+## Perfect Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+## Minimum-Cost Flow
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+## Flow Network
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 <!---LeetCode Topics End-->
