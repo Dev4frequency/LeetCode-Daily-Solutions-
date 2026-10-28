@@ -295,6 +295,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1898-maximum-number-of-removable-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -1598,6 +1599,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1862-sum-of-floored-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1862-sum-of-floored-pairs/) | Hard |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
@@ -1859,6 +1861,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1672-richest-customer-wealth](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [1861-rotating-the-box](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1861-rotating-the-box/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1958-check-if-move-is-legal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1958-check-if-move-is-legal/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
