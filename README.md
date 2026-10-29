@@ -315,6 +315,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1982-find-array-given-subset-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1982-find-array-given-subset-sums/) | Hard |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [1992-find-all-groups-of-farmland](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1992-find-all-groups-of-farmland/) | Medium |
@@ -882,6 +883,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1960-maximum-product-of-the-length-of-two-palindromic-substrings/) | Hard |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -1745,6 +1747,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1943-describe-the-painting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1943-describe-the-painting/) | Medium |
 | [1982-find-array-given-subset-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1982-find-array-given-subset-sums/) | Hard |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [1998-gcd-sort-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2007-find-original-array-from-doubled-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
@@ -2513,6 +2516,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1834-single-threaded-cpu](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -2569,6 +2573,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0932-beautiful-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0932-beautiful-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3855-sum-of-k-digit-numbers-in-a-range/) | Hard |
@@ -3004,6 +3009,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## K-D Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
