@@ -313,6 +313,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
 | [1982-find-array-given-subset-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1982-find-array-given-subset-sums/) | Hard |
@@ -683,6 +684,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1946-largest-number-after-mutating-substring](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2029-stone-game-ix/) | Medium |
@@ -1747,6 +1749,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1943-describe-the-painting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1943-describe-the-painting/) | Medium |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [1982-find-array-given-subset-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1982-find-array-given-subset-sums/) | Hard |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
