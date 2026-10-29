@@ -324,6 +324,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2032-two-out-of-three](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2032-two-out-of-three/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2049-count-nodes-with-the-highest-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2057-smallest-index-with-equal-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -749,6 +750,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1766-tree-of-coprimes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1766-tree-of-coprimes/) | Hard |
+| [2049-count-nodes-with-the-highest-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -2447,6 +2449,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1766-tree-of-coprimes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1766-tree-of-coprimes/) | Hard |
+| [2049-count-nodes-with-the-highest-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2867-count-valid-paths-in-a-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2867-count-valid-paths-in-a-tree/) | Hard |
@@ -2460,6 +2463,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0654-maximum-binary-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2049-count-nodes-with-the-highest-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Heap (Priority Queue)
@@ -2887,6 +2891,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [2049-count-nodes-with-the-highest-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
