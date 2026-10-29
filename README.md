@@ -314,6 +314,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
 | [1982-find-array-given-subset-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1982-find-array-given-subset-sums/) | Hard |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
@@ -1895,6 +1896,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1901-find-a-peak-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1958-check-if-move-is-legal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1958-check-if-move-is-legal/) | Medium |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
 | [1992-find-all-groups-of-farmland](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -1986,6 +1988,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1959-minimum-total-space-wasted-with-k-resizing-operations/) | Medium |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1997-first-day-where-you-have-been-in-all-the-rooms/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
