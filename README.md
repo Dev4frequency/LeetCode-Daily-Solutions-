@@ -317,6 +317,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1982-find-array-given-subset-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1982-find-array-given-subset-sums/) | Hard |
 | [1991-find-the-middle-index-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1995-count-special-quadruplets/) | Easy |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1997-first-day-where-you-have-been-in-all-the-rooms/) | Medium |
 | [1998-gcd-sort-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
@@ -677,6 +678,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1946-largest-number-after-mutating-substring](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -1737,6 +1739,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1943-describe-the-painting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1943-describe-the-painting/) | Medium |
 | [1982-find-array-given-subset-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1982-find-array-given-subset-sums/) | Hard |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [1998-gcd-sort-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2007-find-original-array-from-doubled-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
@@ -2539,6 +2542,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Counting Sort
@@ -2624,6 +2628,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
