@@ -315,6 +315,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1982-find-array-given-subset-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1982-find-array-given-subset-sums/) | Hard |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [1992-find-all-groups-of-farmland](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [1993-operations-on-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1993-operations-on-tree/) | Medium |
@@ -1982,6 +1983,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1959-minimum-total-space-wasted-with-k-resizing-operations/) | Medium |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1997-first-day-where-you-have-been-in-all-the-rooms/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
@@ -2330,6 +2332,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1787-make-the-xor-of-all-segments-equal-to-zero/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 | [2032-two-out-of-three](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2032-two-out-of-three/) | Easy |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2351-first-letter-to-appear-twice](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -2732,6 +2735,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1774-closest-dessert-cost](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1774-closest-dessert-cost/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3669-balanced-k-factor-decomposition](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3669-balanced-k-factor-decomposition/) | Medium |
 ## Bitmask
@@ -2745,6 +2749,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1755-closest-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3444-minimum-increments-for-target-multiples-in-an-array/) | Hard |
