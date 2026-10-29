@@ -320,6 +320,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1998-gcd-sort-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2007-find-original-array-from-doubled-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2029-stone-game-ix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2029-stone-game-ix/) | Medium |
 | [2032-two-out-of-three](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2032-two-out-of-three/) | Easy |
@@ -675,6 +676,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1946-largest-number-after-mutating-substring](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [2007-find-original-array-from-doubled-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -1071,6 +1073,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1995-count-special-quadruplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2007-find-original-array-from-doubled-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2032-two-out-of-three](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2032-two-out-of-three/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
@@ -1734,6 +1737,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1943-describe-the-painting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1943-describe-the-painting/) | Medium |
 | [1982-find-array-given-subset-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1982-find-array-given-subset-sums/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
+| [2007-find-original-array-from-doubled-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
