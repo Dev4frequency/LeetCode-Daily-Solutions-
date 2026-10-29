@@ -324,6 +324,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2032-two-out-of-three](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2032-two-out-of-three/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2057-smallest-index-with-equal-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -1821,6 +1822,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -2558,6 +2560,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1584-min-cost-to-connect-all-points](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1782-count-pairs-of-nodes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1782-count-pairs-of-nodes/) | Hard |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
