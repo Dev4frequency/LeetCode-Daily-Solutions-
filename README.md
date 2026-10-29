@@ -320,6 +320,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1998-gcd-sort-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2008-maximum-earnings-from-taxi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2029-stone-game-ix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2029-stone-game-ix/) | Medium |
 | [2032-two-out-of-three](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2032-two-out-of-three/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -1070,6 +1071,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1995-count-special-quadruplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2008-maximum-earnings-from-taxi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2032-two-out-of-three](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2032-two-out-of-three/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -1607,6 +1609,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
@@ -1731,6 +1734,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1943-describe-the-painting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1943-describe-the-painting/) | Medium |
 | [1982-find-array-given-subset-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1982-find-array-given-subset-sums/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
+| [2008-maximum-earnings-from-taxi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -1962,6 +1966,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1947-maximum-compatibility-score-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1959-minimum-total-space-wasted-with-k-resizing-operations/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
