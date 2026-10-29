@@ -316,6 +316,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1982-find-array-given-subset-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1982-find-array-given-subset-sums/) | Hard |
 | [1991-find-the-middle-index-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [1993-operations-on-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1993-operations-on-tree/) | Medium |
 | [1995-count-special-quadruplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1995-count-special-quadruplets/) | Easy |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1997-first-day-where-you-have-been-in-all-the-rooms/) | Medium |
@@ -757,6 +758,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1766-tree-of-coprimes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1766-tree-of-coprimes/) | Hard |
+| [1993-operations-on-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1993-operations-on-tree/) | Medium |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -1073,6 +1075,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1943-describe-the-painting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1943-describe-the-painting/) | Medium |
 | [1982-find-array-given-subset-sums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1982-find-array-given-subset-sums/) | Hard |
+| [1993-operations-on-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1993-operations-on-tree/) | Medium |
 | [1995-count-special-quadruplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -1834,6 +1837,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
+| [1993-operations-on-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1993-operations-on-tree/) | Medium |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -2465,6 +2469,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1766-tree-of-coprimes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1766-tree-of-coprimes/) | Hard |
+| [1993-operations-on-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1993-operations-on-tree/) | Medium |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -2904,6 +2909,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1476-subrectangle-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1476-subrectangle-queries/) | Medium |
 | [1603-design-parking-system](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1603-design-parking-system/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1656-design-an-ordered-stream/) | Easy |
+| [1993-operations-on-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1993-operations-on-tree/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [3242-design-neighbor-sum-service](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3242-design-neighbor-sum-service/) | Easy |
 ## DP on Trees
