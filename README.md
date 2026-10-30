@@ -336,6 +336,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
+| [2055-plates-between-candles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2055-plates-between-candles/) | Medium |
 | [2057-smallest-index-with-equal-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2059-minimum-operations-to-convert-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2059-minimum-operations-to-convert-number/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -896,6 +897,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2055-plates-between-candles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2055-plates-between-candles/) | Medium |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -1274,6 +1276,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1943-describe-the-painting](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1943-describe-the-painting/) | Medium |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1959-minimum-total-space-wasted-with-k-resizing-operations/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2055-plates-between-candles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2055-plates-between-candles/) | Medium |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
@@ -1645,6 +1648,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1901-find-a-peak-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2055-plates-between-candles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2055-plates-between-candles/) | Medium |
 | [2080-range-frequency-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2080-range-frequency-queries/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
