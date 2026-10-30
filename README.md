@@ -360,6 +360,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [2166-design-bitset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2166-design-bitset/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
@@ -902,6 +903,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
+| [2166-design-bitset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2166-design-bitset/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -1111,6 +1113,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
+| [2166-design-bitset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2166-design-bitset/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
@@ -2967,6 +2970,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1656-design-an-ordered-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1993-operations-on-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1993-operations-on-tree/) | Medium |
 | [2080-range-frequency-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2080-range-frequency-queries/) | Medium |
+| [2166-design-bitset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2166-design-bitset/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [3242-design-neighbor-sum-service](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3242-design-neighbor-sum-service/) | Easy |
 ## DP on Trees
