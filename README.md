@@ -973,6 +973,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3921-score-validator](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3921-score-validator/) | Easy |
 | [3926-count-valid-word-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3926-count-valid-word-occurrences/) | Medium |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 | [3983-subsequence-after-one-replacement](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3983-subsequence-after-one-replacement/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3998-transform-binary-string-using-subsequence-sort/) | Medium |
@@ -2535,6 +2536,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3620-network-recovery-pathways](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3645-maximum-total-from-optimal-activation-order/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -2608,12 +2610,14 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
