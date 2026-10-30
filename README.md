@@ -346,6 +346,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2104-sum-of-subarray-ranges](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2105-watering-plants-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2105-watering-plants-ii/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2121-intervals-between-identical-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2122-recover-the-original-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2122-recover-the-original-array/) | Hard |
 | [2126-destroying-asteroids](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -1099,6 +1100,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2032-two-out-of-three](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2032-two-out-of-three/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2121-intervals-between-identical-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2122-recover-the-original-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2122-recover-the-original-array/) | Hard |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
@@ -1269,6 +1271,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1959-minimum-total-space-wasted-with-k-resizing-operations/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
+| [2121-intervals-between-identical-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2574-left-and-right-sum-differences/) | Easy |
