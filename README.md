@@ -338,6 +338,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2049-count-nodes-with-the-highest-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2057-smallest-index-with-equal-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2080-range-frequency-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2080-range-frequency-queries/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2090-k-radius-subarray-averages/) | Medium |
@@ -1100,6 +1101,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2008-maximum-earnings-from-taxi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2032-two-out-of-three](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2032-two-out-of-three/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
+| [2080-range-frequency-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2080-range-frequency-queries/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2122-recover-the-original-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2122-recover-the-original-array/) | Hard |
@@ -1642,6 +1644,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1901-find-a-peak-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2080-range-frequency-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2080-range-frequency-queries/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
@@ -2433,6 +2436,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [2080-range-frequency-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2080-range-frequency-queries/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -2956,6 +2960,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1603-design-parking-system](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1603-design-parking-system/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1993-operations-on-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1993-operations-on-tree/) | Medium |
+| [2080-range-frequency-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2080-range-frequency-queries/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [3242-design-neighbor-sum-service](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3242-design-neighbor-sum-service/) | Easy |
 ## DP on Trees
