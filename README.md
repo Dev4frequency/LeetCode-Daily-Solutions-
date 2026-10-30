@@ -338,6 +338,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2049-count-nodes-with-the-highest-score](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2057-smallest-index-with-equal-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2079-watering-plants](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2079-watering-plants/) | Medium |
 | [2080-range-frequency-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2080-range-frequency-queries/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -2301,6 +2302,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1801-number-of-orders-in-the-backlog](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1801-number-of-orders-in-the-backlog/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2079-watering-plants](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2079-watering-plants/) | Medium |
 | [2105-watering-plants-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2105-watering-plants-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2293-min-max-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2293-min-max-game/) | Easy |
