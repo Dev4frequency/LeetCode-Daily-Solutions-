@@ -365,6 +365,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2212-maximum-points-in-an-archery-competition/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
@@ -709,6 +710,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2241-design-an-atm-machine](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2241-design-an-atm-machine/) | Medium |
@@ -2568,6 +2570,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1882-process-tasks-using-servers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
