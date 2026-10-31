@@ -358,6 +358,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
+| [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2155-all-divisions-with-the-highest-score-of-a-binary-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2166-design-bitset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2166-design-bitset/) | Medium |
