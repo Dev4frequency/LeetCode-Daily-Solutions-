@@ -557,6 +557,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3660-jump-game-ix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3660-jump-game-ix/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3664-two-letter-card-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3664-two-letter-card-game/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3668-restore-finishing-order/) | Easy |
 | [3671-sum-of-beautiful-subsequences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3671-sum-of-beautiful-subsequences/) | Hard |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
@@ -1953,6 +1954,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3725-count-ways-to-choose-coprime-integers-from-rows/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -2050,6 +2052,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3660-jump-game-ix/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3685-subsequence-sum-after-capping-elements/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
