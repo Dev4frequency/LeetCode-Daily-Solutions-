@@ -363,8 +363,8 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2166-design-bitset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2166-design-bitset/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+| [2187-minimum-time-to-complete-trips](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
-| [2195-append-k-integers-with-minimal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2201-count-artifacts-that-can-be-extracted/) | Medium |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2202-maximize-the-topmost-element-after-k-moves/) | Medium |
@@ -713,7 +713,6 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
-| [2195-append-k-integers-with-minimal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2202-maximize-the-topmost-element-after-k-moves/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
@@ -1520,7 +1519,6 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2101-detonate-the-maximum-bombs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2117-abbreviating-the-product-of-a-range/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
-| [2195-append-k-integers-with-minimal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2217-find-palindrome-with-fixed-length](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2217-find-palindrome-with-fixed-length/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -1671,6 +1669,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2055-plates-between-candles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2055-plates-between-candles/) | Medium |
 | [2080-range-frequency-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2080-range-frequency-queries/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2187-minimum-time-to-complete-trips](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -1808,7 +1807,6 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
-| [2195-append-k-integers-with-minimal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
