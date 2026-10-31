@@ -366,6 +366,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2217-find-palindrome-with-fixed-length](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2217-find-palindrome-with-fixed-length/) | Medium |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2239-find-closest-number-to-zero](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2239-find-closest-number-to-zero/) | Easy |
@@ -707,6 +708,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
 | [2241-design-an-atm-machine](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
@@ -2608,6 +2610,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
