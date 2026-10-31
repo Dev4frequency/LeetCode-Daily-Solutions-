@@ -365,6 +365,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2201-count-artifacts-that-can-be-extracted](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2201-count-artifacts-that-can-be-extracted/) | Medium |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2202-maximize-the-topmost-element-after-k-moves/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2212-maximum-points-in-an-archery-competition/) | Medium |
@@ -1130,6 +1131,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2201-count-artifacts-that-can-be-extracted](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2201-count-artifacts-that-can-be-extracted/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2284-sender-with-largest-word-count/) | Medium |
@@ -2326,6 +2328,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2105-watering-plants-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2105-watering-plants-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2201-count-artifacts-that-can-be-extracted](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2201-count-artifacts-that-can-be-extracted/) | Medium |
 | [2293-min-max-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2293-min-max-game/) | Easy |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
