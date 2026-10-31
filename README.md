@@ -365,6 +365,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2202-maximize-the-topmost-element-after-k-moves/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2212-maximum-points-in-an-archery-competition/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -710,6 +711,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2202-maximize-the-topmost-element-after-k-moves/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
