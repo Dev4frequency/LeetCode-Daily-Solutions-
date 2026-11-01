@@ -379,6 +379,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2239-find-closest-number-to-zero](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2241-design-an-atm-machine](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2250-count-number-of-rectangles-containing-each-point/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2256-minimum-average-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2256-minimum-average-difference/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
@@ -1142,6 +1143,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2201-count-artifacts-that-can-be-extracted/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2250-count-number-of-rectangles-containing-each-point/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2261-k-divisible-elements-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
@@ -1683,6 +1685,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2080-range-frequency-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2080-range-frequency-queries/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2250-count-number-of-rectangles-containing-each-point/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -1822,6 +1825,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2171-removing-minimum-number-of-magic-beans/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2250-count-number-of-rectangles-containing-each-point/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -2471,6 +2475,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2250-count-number-of-rectangles-containing-each-point/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3161-block-placement-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3161-block-placement-queries/) | Hard |
