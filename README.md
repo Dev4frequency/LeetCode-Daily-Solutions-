@@ -380,6 +380,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2241-design-an-atm-machine](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2261-k-divisible-elements-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2284-sender-with-largest-word-count/) | Medium |
@@ -1016,6 +1017,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1023-camelcase-matching](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1023-camelcase-matching/) | Medium |
+| [2261-k-divisible-elements-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -1138,6 +1140,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2201-count-artifacts-that-can-be-extracted/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
+| [2261-k-divisible-elements-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
@@ -2501,6 +2504,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2171-removing-minimum-number-of-magic-beans/) | Medium |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2212-maximum-points-in-an-archery-competition/) | Medium |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
+| [2261-k-divisible-elements-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2427-number-of-common-factors/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
@@ -2950,6 +2954,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1960-maximum-product-of-the-length-of-two-palindromic-substrings/) | Hard |
+| [2261-k-divisible-elements-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 ## Hash Function
@@ -2957,6 +2962,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1960-maximum-product-of-the-length-of-two-palindromic-substrings/) | Hard |
+| [2261-k-divisible-elements-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
 ## Z Algorithm
