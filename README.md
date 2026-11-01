@@ -379,6 +379,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2239-find-closest-number-to-zero](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2241-design-an-atm-machine](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2250-count-number-of-rectangles-containing-each-point/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2256-minimum-average-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2256-minimum-average-difference/) | Medium |
@@ -1143,6 +1144,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2201-count-artifacts-that-can-be-extracted/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2250-count-number-of-rectangles-containing-each-point/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2261-k-divisible-elements-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
@@ -1535,6 +1537,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2217-find-palindrome-with-fixed-length](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2217-find-palindrome-with-fixed-length/) | Medium |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2409-count-days-spent-together/) | Easy |
@@ -1732,6 +1735,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1401-circle-and-rectangle-overlapping](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Sorting
@@ -2514,6 +2518,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2171-removing-minimum-number-of-magic-beans/) | Medium |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2212-maximum-points-in-an-archery-competition/) | Medium |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [2261-k-divisible-elements-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2427-number-of-common-factors/) | Easy |
