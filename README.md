@@ -380,6 +380,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2241-design-an-atm-machine](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2256-minimum-average-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2256-minimum-average-difference/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2261-k-divisible-elements-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -1307,6 +1308,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2121-intervals-between-identical-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2171-removing-minimum-number-of-magic-beans/) | Medium |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2234-maximum-total-beauty-of-the-gardens/) | Hard |
+| [2256-minimum-average-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2256-minimum-average-difference/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2615-sum-of-distances/) | Medium |
