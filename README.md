@@ -70,6 +70,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0695-max-area-of-island](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0695-max-area-of-island/) | Medium |
 | [0697-degree-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0699-falling-squares](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0699-falling-squares/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0722-remove-comments](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0722-remove-comments/) | Medium |
@@ -2489,6 +2490,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0699-falling-squares](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0699-falling-squares/) | Hard |
 | [2080-range-frequency-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2080-range-frequency-queries/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -2904,6 +2906,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0456-132-pattern/) | Medium |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0497-random-point-in-non-overlapping-rectangles/) | Medium |
+| [0699-falling-squares](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0699-falling-squares/) | Hard |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1818-minimum-absolute-sum-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
