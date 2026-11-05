@@ -195,6 +195,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1472-design-browser-history](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1472-design-browser-history/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1476-subrectangle-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1476-subrectangle-queries/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -2651,6 +2652,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1472-design-browser-history](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1472-design-browser-history/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
@@ -2745,6 +2747,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
