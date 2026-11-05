@@ -75,6 +75,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0722-remove-comments](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0722-remove-comments/) | Medium |
 | [0733-flood-fill](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0733-flood-fill/) | Easy |
+| [0739-daily-temperatures](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0739-daily-temperatures/) | Medium |
 | [0740-delete-and-earn](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0740-delete-and-earn/) | Medium |
 | [0748-shortest-completing-word](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0752-open-the-lock](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0752-open-the-lock/) | Medium |
@@ -2638,6 +2639,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0654-maximum-binary-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0856-score-of-parentheses/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -2741,6 +2743,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [0496-next-greater-element-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0739-daily-temperatures](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
