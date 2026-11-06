@@ -453,6 +453,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2717-semi-ordered-permutation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2717-semi-ordered-permutation/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
@@ -1189,6 +1190,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2670-find-the-distinct-difference-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2848-points-that-intersect-with-cars/) | Easy |
@@ -1853,6 +1855,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2607-make-k-subarray-sums-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -2467,6 +2470,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
