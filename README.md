@@ -778,6 +778,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3745-maximize-expression-of-three-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3785-minimum-swaps-to-avoid-forbidden-values/) | Hard |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3998-transform-binary-string-using-subsequence-sort/) | Medium |
@@ -1638,6 +1639,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3765-complete-prime-number](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3765-complete-prime-number/) | Medium |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3848-check-digitorial-permutation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3848-check-digitorial-permutation/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3850-count-sequences-to-k/) | Hard |
