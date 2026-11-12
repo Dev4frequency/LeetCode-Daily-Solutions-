@@ -505,6 +505,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3127-make-a-square-with-the-same-color](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
