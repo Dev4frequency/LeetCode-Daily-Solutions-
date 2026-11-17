@@ -44,4 +44,5 @@ public:
         mem.resize(s.size(), vector<int>(k + 1, -1));
         return solve(s, 0, k);
     }
+    
 };
