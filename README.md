@@ -433,6 +433,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2549-count-distinct-numbers-on-board](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
@@ -748,6 +749,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2499-minimum-total-cost-to-make-arrays-unequal/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2607-make-k-subarray-sums-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
@@ -1864,6 +1866,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2465-number-of-distinct-averages](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2607-make-k-subarray-sums-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
