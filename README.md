@@ -539,6 +539,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
@@ -822,6 +823,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2685-count-the-number-of-complete-components](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2867-count-valid-paths-in-a-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2867-count-valid-paths-in-a-tree/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -991,6 +993,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3389-minimum-operations-to-make-character-frequencies-equal/) | Hard |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
@@ -1243,6 +1246,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3267-count-almost-equal-pairs-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3267-count-almost-equal-pairs-ii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3316-find-maximum-removals-from-source-string/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3389-minimum-operations-to-make-character-frequencies-equal/) | Hard |
@@ -2612,6 +2616,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2867-count-valid-paths-in-a-tree](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2867-count-valid-paths-in-a-tree/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
