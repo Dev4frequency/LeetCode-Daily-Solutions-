@@ -944,6 +944,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2166-design-bitset](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2166-design-bitset/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
