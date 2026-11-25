@@ -650,6 +650,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3925-concatenate-array-with-reverse](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3926-count-valid-word-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3926-count-valid-word-occurrences/) | Medium |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -1291,6 +1292,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3926-count-valid-word-occurrences/) | Medium |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3943-number-of-pairs-after-increment](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3943-number-of-pairs-after-increment/) | Hard |
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 | [3960-frequency-balance-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3960-frequency-balance-subarray/) | Medium |
@@ -1755,6 +1757,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3814-maximum-capacity-within-budget](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3036,6 +3039,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2261-k-divisible-elements-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3044,6 +3048,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [2261-k-divisible-elements-subarrays](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3008-find-beautiful-indices-in-the-given-array-ii/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3241,4 +3246,8 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
