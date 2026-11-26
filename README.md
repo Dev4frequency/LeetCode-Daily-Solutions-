@@ -1614,6 +1614,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3360-stone-removal-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3360-stone-removal-game/) | Easy |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3377-digit-operations-to-make-two-integers-equal/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
@@ -2419,6 +2420,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3242-design-neighbor-sum-service](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3242-design-neighbor-sum-service/) | Easy |
+| [3360-stone-removal-game](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3360-stone-removal-game/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
