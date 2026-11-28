@@ -655,6 +655,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [3943-number-of-pairs-after-increment](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3943-number-of-pairs-after-increment/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3953-maximum-score-with-co-prime-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3953-maximum-score-with-co-prime-element/) | Hard |
 | [3960-frequency-balance-subarray](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3960-frequency-balance-subarray/) | Medium |
 | [3978-unique-middle-element](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3978-unique-middle-element/) | Easy |
@@ -790,6 +791,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3998-transform-binary-string-using-subsequence-sort/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4026-maximum-gap-between-stations](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4026-maximum-gap-between-stations/) | Medium |
@@ -1926,6 +1928,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
@@ -2674,6 +2677,7 @@ THIS ENTIRE OPEN SOURCE REPO ( HAS ) SOLUTIONS OF ALL THE PROBLEMS EXISTING WITH
 | [3620-network-recovery-pathways](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3645-maximum-total-from-optimal-activation-order/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Dev4frequency/LeetCode-Daily-Solutions-/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Stack
